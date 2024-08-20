@@ -1,0 +1,14 @@
+---
+title: "Rematricula abertas para o ano letivo 2019"
+date: "2019-01-16"
+categories: 
+  - "noticias"
+---
+
+![](/img/antigo/2018/07/24.jpg)
+
+ 
+
+Teve início, no dia 3 de Dezembro, a rematrícula do ano de 2019, FAÇA JÁ A SUA!!!
+
+O  prazo se encerra em 18 de janeiro de 2019, sendo o processo exclusivamente online: [endereço eletrônico](http://www.daa.uem.br/), no menu do aluno.

@@ -1,0 +1,137 @@
++++
+date = "Tue, 12 May 2015 22:58:52 -3000"
+draft = false
+title = "Notícias de 2014"
+banner = "/img/antigo/2015/05/17-12-14.jpg"
++++
+
+
+
+## Notícias publicas em Dezembro/2014
+
+ 
+
+![17-12-14](/img/antigo/2015/05/17-12-14.jpg)
+
+[Link](/img/antigo/2015/05/informativo.uem_.br-Prefeito-de-Cianorte-oficializa-repasse-de-terreno-ao-CRC.pdf) Prefeito de Cianorte oficializa repasse de terreno ao CRC
+
+ 
+ 
+## Notícias publicas em Novembro/2014
+ 
+  _(13-11-14)_ 
+
+Presença do Reitor
+
+[Link](/img/antigo/2015/04/terreno-oficiamente-doado.pdf) Com a presença de reitor, terreno é oficialmente doado à UEM
+
+   _(03-11-14)_ 
+
+![UEM Cianorte realiza a 6ª Semana de Design ](/img/antigo/2015/04/uem-realiza.jpg)
+
+[Link](/img/antigo/2015/04/tribunadecianorte.com_.br-UEM-Cianorte-realiza-a-6ª-Semana-de-Design.pdf) NOTÍCIA - UEM Cianorte realiza a 6ª Semana de Design   
+
+## Notícias publicas em Outubro/2014
+
+ (29-10-14) 
+
+![Camara 29-10-14](/img/antigo/2015/05/Camara-29-10-14.jpg)
+
+[Link](/img/antigo/2015/05/paranaportal.com_.br-Câmara-de-Cianorte-aprova-doação-de-terreno-à-UEM-a-pedido-do-Prefeito.pdf) Câmara de Cianorte aprova doação de terreno à UEM a pedido do Prefeito
+
+ _(23-10-14)_ 
+
+![UEM realiza Semana de Design em Cianorte](/img/antigo/2015/04/Semana.jpg)
+
+[Link](/img/antigo/2015/04/folhadecianorte.com-UEM-realiza-Semana-de-Design-em-Cianorte.pdf) UEM realiza Semana de Design em Cianorte     _(22-10-14)_ 
+
+![](/img/antigo/2015/05/terreno.jpg)
+
+[Link](/img/antigo/2015/05/terreno.jpg) Projeto de doação de terreno à UEM é aprovado em primeiro turno
+
+   _(22-10-14)_ 
+
+![Campus uem](/img/antigo/2015/05/Campus-uem.jpg)
+
+[Link](/img/antigo/2015/05/folhadecianorte.com-Campus-da-UEM-em-Cianorte-ganha-área-e-dobra-de-tamanho.pdf) Campus da UEM em Cianorte ganha área e dobra tamanho
+
+
+   _(21-10-14)_
+
+ 
+
+![projeto é aprovado](/img/antigo/2015/04/projeto-e-aprovado.png)
+
+[Link](/img/antigo/2015/05/maringanews.com_.br-Projeto-de-doação-de-terreno-à-UEM-é-aprovado-em-primeiro-turno.pdf)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Projeto de doação de terreno à UEM é aprovado em primeiro turno    
+
+ _(13-10-14)_ 
+
+
+[Link](/img/antigo/2015/04/folhadecianorte.com-UEM-em-Cianorte-receberá-especial-atenção-em-2015.pdf) UEM em Cianorte receberá especial atenção em 2015
+
+  
+  
+## Notícias publicas em Julho/2014
+  
+   (23-07-14) 
+
+![Melhorias](/img/antigo/2015/05/Melhorias.jpg)
+
+[Link](/img/antigo/2015/05/cianorte.pr_.gov_.br-Prefeitura-de-Cianorte-e-reitoria-da-UEM-discutem-melhorias-para-o-campus.pdf) Prefeitura de Cianorte e reitoria da UEM discutem melhorias para o campus
+
+ _(02-07-14)_ 
+
+![Uem na contagem regressiva para o Vestibular de Inverno 2014](/img/antigo/2015/04/vestiba-14.jpg)
+
+[Link](/img/antigo/2015/04/tribunadecianorte.com_.br-Uem-na-contagem-regressiva-para-o-Vestibular-de-Inverno-2014.pdf) Uem na contagem regressiva para o Vestibular de Inverno 2014
+
+ 
+ 
+## Notícias publicas em Junho/2014
+ 
+  (16-06-14) 
+
+![unati](/img/antigo/2015/05/unati.jpg)
+
+[Link](/img/antigo/2015/05/tribunadecianorte.com_.br-Alunos-da-UNATI-transformam-garrafas-PETs-em-jardim-vertical2.pdf) Alunos da UNATI transformam garrafas PETs em jardim vertical
+
+   (12-06-14) 
+
+![design uem](/img/antigo/2015/05/design-uem.jpg)
+
+[Link](/img/antigo/2015/05/tribunadecianorte.com_.br-Design-da-UEM-é-premiado-por-Recepção-Solidária.pdf) Design da UEM é premiado por Recepção Solidária
+
+   
+ 
+## Notícias publicas em Maio/2014
+ 
+  _(12-05-14)_ 
+
+![Estado deverá repassar R$ 600 mil para Campus da UEM de Cianorte](/img/antigo/2015/04/Governador_anuncia_investimentos_de_R$_600_mil_para_o_Câmpus_de_Cianorte.png)
+
+[Link](/img/antigo/2015/04/Governador_anuncia_investimentos_de_R$_600_mil_para_o_Câmpus_de_Cianorte.pdf) Estado deverá repassar R$ 600 mil para Campus da UEM de  
+Cianorte
+
+   _(07-05-14)_ 
+
+![melhorias](/img/antigo/2015/05/melhorias.jpg)
+
+[Link](/img/antigo/2015/05/tribunadecianorte.com_.br-UEM-reivindica-melhorias-a-secretário-de-Tecnologia.pdf) UEM reivindica melhorias a secretário de Tecnologia
+
+    
+## Notícias publicas em Março/2014
+ 
+  _(26-03-14)_ 
+
+![PROPOSTA ACEITA](/img/antigo/2015/04/PROPOSTA-ACEITA.jpg)
+
+[Link](/img/antigo/2015/04/tribunadecianorte.com_.br-Reitoria-aceita-contraproposta-para-doação-de-terreno-à-UEM-1.pdf)
+
+(09-03-14) 
+
+![novela](/img/antigo/2015/04/novela.jpg)
+
+[Link](/img/antigo/2015/04/tribunadecianorte.com_.br-Virou-novela-doação-de-terreno-para-UEM-ainda-está-em-trâmite.pdf) Virou novela: doação de terreno para UEM ainda está em trâmite.
