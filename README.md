@@ -1,4 +1,8 @@
 # Site do Curso de Design
 
-Esse é o site do Curso de Design da Universidade Estadual de Maringá, Campus Regional de Cianorte.
+Código fonte do site do curso de Design. 
+Universidade Estadual de Maringá - Campus Regional de Cianorte. 
 
+Aparência do site.
+
+![Site do Design](static/img/2024-site-design.png)

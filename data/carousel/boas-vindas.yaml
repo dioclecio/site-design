@@ -1,0 +1,10 @@
+weight: 4
+title: "Bem vindo ao Curso de Design"
+description: >
+  <ul class="list-style-none">
+    <center>Conheça o Curso de Graduação</center>
+    <center>em Design da <br>Universidade Estadual de Maringá</center>
+    <center>Campus Regional de Cianorte</center>
+  </ul>  
+image: "img/blog/2024-08-17_17-39.png"
+href: "/institucional/curso/"
