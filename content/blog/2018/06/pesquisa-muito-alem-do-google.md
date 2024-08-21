@@ -1,6 +1,7 @@
 ---
 title: "Pesquisa muito além do Google"
 date: "2018-06-08"
+banner: "/img/antigo/2018/06/pesquisa.jpg"
 categories: 
   - "noticias"
 ---

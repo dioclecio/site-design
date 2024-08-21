@@ -1,6 +1,7 @@
 ---
 title: "Inscrições para projeto de extensão até dia 06/07/2018!"
 date: "2018-07-03"
+banner: "/img/antigo/2018/07/24-632x422.jpg"
 categories: 
   - "noticias"
 ---

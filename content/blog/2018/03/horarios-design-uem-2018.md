@@ -1,6 +1,7 @@
 ---
 title: "Horários Design UEM 2018"
 date: "2018-03-12"
+banner: "/img/antigo/2018/03/chinese-text-2-1314346.jpg"
 categories: 
   - "noticias"
 ---

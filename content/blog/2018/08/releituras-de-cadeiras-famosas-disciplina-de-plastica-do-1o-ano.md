@@ -1,6 +1,7 @@
 ---
 title: "Releituras de cadeiras famosas - Disciplina de Plástica do 1º ano"
 date: "2018-08-10"
+banner: "/img/antigo/2018/08/DSC_1689-site-ddm-632x395.jpg"
 categories: 
   - "noticias"
 ---

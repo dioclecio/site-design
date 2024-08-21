@@ -1,6 +1,7 @@
 ---
 title: "Mostra de profissões no campus sede em Maringá"
 date: "2018-08-29"
+banner: "/img/antigo/2018/08/36875936_1857928487843468_6955160380037398528_n-1.png"
 categories: 
   - "noticias"
 ---

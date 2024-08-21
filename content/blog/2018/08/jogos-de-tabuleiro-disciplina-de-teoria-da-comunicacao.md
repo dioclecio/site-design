@@ -1,6 +1,7 @@
 ---
 title: "Jogos de Tabuleiro - disciplina de Teoria da Comunicação."
 date: "2018-08-24"
+banner: "/img/antigo/2018/08/conceito-de-sucesso-empresarial-com-xadrez-fundo-de-imagem-de-filtro-vintage_33755-3679.jpg"
 categories: 
   - "noticias"
 ---

@@ -18,4 +18,4 @@ O evento em comemoração aos 15 anos do curso de Design da UEM reuniu em Cianor
 
 ![](/img/antigo/2017/11/15-anos-Design-UEM-669.jpg)
 
-Para conferir mais fotos do evento acesse o [link.](https://www.facebook.com/pg/uemdesign/photos/?tab=album&album_id=1466921553429431)
+Para conferir mais fotos do evento acesse o [link.](https://www.facebook.com/media/set/?set=a.1466921553429431&type=3)

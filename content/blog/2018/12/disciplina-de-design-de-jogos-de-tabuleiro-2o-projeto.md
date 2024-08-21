@@ -1,6 +1,7 @@
 ---
 title: "Disciplina de Design de Jogos de Tabuleiro - 2º projeto"
 date: "2018-12-17"
+banner: "/img/antigo/2018/12/DSC_3267.jpg"
 categories: 
   - "noticias"
 ---

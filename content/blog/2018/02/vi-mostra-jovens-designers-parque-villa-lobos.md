@@ -3,6 +3,7 @@ title: "VI Mostra Jovens Designers - Parque Villa-Lobos"
 date: "2018-02-05"
 categories: 
   - "noticias"
+banner: "/img/antigo/2018/02/7e584f15.png"
 ---
 
 Olá Pessoal.

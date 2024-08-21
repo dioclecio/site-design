@@ -1,17 +1,34 @@
 ---
 title: 'Informações para os alunos'
 date: 2024-08-03T17:10:48-03:00
-draft: false
 description: "Você acadêmico do curso poderá encontrar algumas informações sobre a rotina de seu curso."
 banner: "img/banner01.jpg"
 ---
 Você acadêmico do curso poderá encontrar algumas informações sobre a rotina de seu curso.
 
+![Alunos de 2015](/img/blog/2024/23270483_1466922180096035_3015897837712355238_o.jpg)
+
 # Horário do curso 
 
 Verifique o horário atual do curso e seus respectivos professores. 
 
-[Horário do calendário acadêmico de 2024](<2024/2024.02.01 Horário do Design - 1o e 2o semestres de 2024 v.30.pdf>)
+- [Horário do calendário acadêmico de 2024](<2024/2024.02.01 Horário do Design - 1o e 2o semestres de 2024 v.30.pdf>)
+
+# Calendário acadêmico
+Veja os calendários acadêmicos que estão em vigor na UEM. 
+- [Calendário de 2024](http://www.scs.uem.br/2024/cep/001cep2024.htm)
+
+# Matriz Curricular
+Verifique a Matriz Curricular do Curso e suas respectivas disciplinas. 
+
+- [Conheça mais sobre o curso](/institucional/curso)
+
+# Informações importantes
+
+Para orientar seus trabalhos indicamos alguns materiais essenciais para a realização do Curso:
+
+- [Materiais essenciais](/blog/2019/03/guia-do-estudante-materiais-essenciais-2/)
+- [Locais úteis](/blog/2019/02/guia-do-estudante-locais-uteis-2/)
 
 # Reserva de Marmitas
 O Campus Regional de Cianorte possui um serviço de reserva de marmitas. Para efetuar seu pedido, você deverá ter a matrícula regular no curso e comprar previamente o ticket para aquisição da Marmita.
@@ -20,19 +37,7 @@ As reservas podem ser realizadas através do formulário.
 
 Os pedidos devem ser realizados antes das 8h da manhã.
 
-> https://bit.ly/uem-crc-marmitas
-
-# Matriz Curricular
-Verifique a Matriz Curricular do Curso e suas respectivas disciplinas. 
-
-[Conheça mais sobre o curso](/institucional/curso)
-
-# Informações importantes
-
-Para orientar seus trabalhos indicamos alguns materiais essenciais para a realização do Curso:
-
-- [Materiais essenciais 01](/blog/2019/03/guia-do-estudante-materiais-essenciais-2/)
-- [Locais úteis](/blog/2019/02/guia-do-estudante-locais-uteis-2/)
+- https://bit.ly/uem-crc-marmitas
 
 # TCC de ex-alunos do curso
 

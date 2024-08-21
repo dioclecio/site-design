@@ -1,6 +1,7 @@
 ---
 title: "Programa de monitoria DDM"
 date: "2018-06-12"
+banner: "/img/antigo/2018/06/317279-P8VMVT-841-1-632x422.jpg"
 categories: 
   - "noticias"
 ---

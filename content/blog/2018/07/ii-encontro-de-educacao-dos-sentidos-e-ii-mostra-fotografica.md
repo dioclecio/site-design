@@ -1,6 +1,7 @@
 ---
 title: "II Encontro de Educação dos Sentidos e II Mostra Fotográfica"
 date: "2018-07-25"
+banner: "/img/antigo/2018/07/foto-evento-pedagogia.jpg"
 categories: 
   - "noticias"
 ---

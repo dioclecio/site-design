@@ -1,6 +1,7 @@
 ---
 title: "Disciplinas Optativas 2018"
 date: "2018-03-06"
+banner: "/img/antigo/2018/03/candy-jelly-beans-1527168-632x474.jpg"
 categories: 
   - "noticias"
 ---

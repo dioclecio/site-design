@@ -1,6 +1,7 @@
 ---
 title: "Professores do Design UEM participaram do P&D Joinville 2018"
 date: "2018-11-20"
+banner: "/img/antigo/2018/11/IMG-20181107-WA0004.jpg"
 categories: 
   - "noticias"
 ---

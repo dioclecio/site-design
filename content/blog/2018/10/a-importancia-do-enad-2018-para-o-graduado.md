@@ -1,6 +1,7 @@
 ---
 title: "A importância do ENAD 2018 para o graduado."
 date: "2018-10-18"
+banner: "/img/antigo/2018/10/enade-2018.jpg"
 categories: 
   - "noticias"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Vaga em projeto de Sistema de Mobilidade para estudantes de Design."
 date: "2018-06-26"
+banner: "/img/antigo/2018/06/equo.png"
 categories: 
   - "noticias"
 ---

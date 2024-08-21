@@ -1,6 +1,7 @@
 ---
 title: "Encontro Anual de Extensão Universitária UEM - EAEX"
 date: "2018-08-29"
+banner: "/img/antigo/2018/08/WhatsApp-Image-2018-08-08-at-18.51.26-1.jpeg"
 categories: 
   - "noticias"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Inscrições abertas para o Vestibular de Verão & PAS-UEM 2018"
 date: "2018-08-31"
+banner: "/img/antigo/2018/08/19.jpg"
 categories: 
   - "noticias"
 ---

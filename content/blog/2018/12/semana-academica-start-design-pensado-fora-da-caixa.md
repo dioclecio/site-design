@@ -1,6 +1,7 @@
 ---
 title: "Semana Acadêmica Start Design Pensado Fora da Caixa"
 date: "2018-12-14"
+banner: "/img/antigo/2018/12/DSC_3033.jpg"
 categories: 
   - "noticias"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Saiu o resultado do edital do Projeto SETI"
 date: "2018-08-03"
+banner: "/img/antigo/2018/08/pessoas-que-pulam-na-rua_23-2147679255.jpg"
 categories: 
   - "editais"
   - "noticias"

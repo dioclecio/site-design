@@ -1,6 +1,7 @@
 ---
 title: "Ex academico se destaca com projeto de joias autorias"
 date: "2018-07-03"
+banner: "/img/antigo/2018/06/perfil.png"
 categories: 
   - "noticias"
 ---

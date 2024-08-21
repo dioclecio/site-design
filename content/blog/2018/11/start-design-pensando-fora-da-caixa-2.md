@@ -1,6 +1,7 @@
 ---
 title: "Start Design: pensando fora da caixa"
 date: "2018-11-22"
+banner: "/img/antigo/2018/11/Arte-Original.png"
 categories: 
   - "noticias"
 ---

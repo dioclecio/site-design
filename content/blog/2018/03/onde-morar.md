@@ -1,6 +1,7 @@
 ---
 title: "Onde morar, o que comer e se fica doente?"
 date: "2018-03-13"
+banner: "/img/antigo/2018/03/Lista-de-Imobiliárias-632x474.png"
 categories: 
   - "noticias"
 ---

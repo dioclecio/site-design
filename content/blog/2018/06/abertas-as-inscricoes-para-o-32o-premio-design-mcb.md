@@ -1,6 +1,7 @@
 ---
 title: "Abertas as inscrições para o 32º Prêmio Design MCB."
 date: "2018-06-26"
+banner: "/img/antigo/2018/06/mcb.jpg"
 categories: 
   - "noticias"
 ---

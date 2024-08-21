@@ -1,6 +1,7 @@
 ---
 title: "Rematricula abertas para o ano letivo 2019"
 date: "2019-01-03"
+banner: "/img/antigo/2018/07/24.jpg"
 categories: 
   - "noticias"
 ---

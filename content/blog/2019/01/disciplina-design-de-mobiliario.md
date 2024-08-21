@@ -1,6 +1,7 @@
 ---
 title: "DISCIPLINA DESIGN DE MOBILIÁRIO"
 date: "2019-01-21"
+banner: "/img/antigo/2018/12/interior-de-restaurante-moderno-mao-desenhada_23-2147925672.jpg"
 categories: 
   - "noticias"
 ---

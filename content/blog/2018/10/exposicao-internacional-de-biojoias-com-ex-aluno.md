@@ -1,6 +1,7 @@
 ---
 title: "Exposição internacional de joias autorias com ex academico."
 date: "2018-10-29"
+banner: "/img/antigo/2018/10/43687233_1813556125430493_1429860519111557120_n-1.jpg"
 categories: 
   - "noticias"
 ---

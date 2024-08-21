@@ -1,6 +1,7 @@
 ---
 title: "Alunos do Design UEM fazem o bem em creche de Vidigal"
 date: "2018-04-09"
+banner: "/img/antigo/2018/04/sem-título-94-632x352.jpg"
 categories: 
   - "noticias"
 ---

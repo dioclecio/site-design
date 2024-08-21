@@ -1,6 +1,7 @@
 ---
 title: "Apresentação dos projetos da disciplina Optativa de Automotivo."
 date: "2018-08-22"
+banner: "/img/antigo/2018/08/DSC_1873.jpg"
 categories: 
   - "noticias"
 ---

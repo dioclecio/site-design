@@ -1,6 +1,7 @@
 ---
 title: "Inscrições para monitoria voluntária se encerram hoje."
 date: "2018-05-02"
+banner: "/img/antigo/2018/05/MONITORIA.png"
 categories: 
   - "noticias"
 ---

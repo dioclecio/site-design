@@ -1,6 +1,7 @@
 ---
 title: "Design UEM tem destaque com várias bolsas de Iniciação Científica e Tecnológica"
 date: "2018-07-10"
+banner: "/img/antigo/2018/07/153171-OU5TVG-38-632x422.jpg"
 categories: 
   - "noticias"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Disciplina de Design de  Jogos de Tabuleiro e os primeiros projetos"
 date: "2018-10-09"
+banner: "/img/antigo/2018/10/IMG_5004-632x257.jpg"
 categories: 
   - "noticias"
 ---

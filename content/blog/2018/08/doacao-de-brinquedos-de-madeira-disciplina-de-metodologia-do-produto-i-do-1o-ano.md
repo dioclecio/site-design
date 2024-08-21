@@ -1,6 +1,7 @@
 ---
 title: "Doação de Brinquedos de madeira - Disciplina de Metodologia do Produto I do 1º ano."
 date: "2018-08-27"
+banner: "/img/antigo/2018/08/blocos-de-construcao-em-fundo-de-madeira-blocos-de-construcao-coloridos-de-madeira_1205-1629-1.jpg"
 categories: 
   - "noticias"
 ---

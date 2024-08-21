@@ -1,6 +1,7 @@
 ---
 title: "Start Design: pensando fora da caixa"
 date: "2018-11-08"
+banner: "/img/antigo/2018/11/45565682_1930750683673981_5686918951993344000_n.jpg"
 categories: 
   - "noticias"
 ---

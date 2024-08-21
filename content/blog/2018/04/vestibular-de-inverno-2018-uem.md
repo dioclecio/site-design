@@ -1,6 +1,7 @@
 ---
 title: "Vestibular de Inverno 2018 UEM"
 date: "2018-04-10"
+banner: "/img/antigo/2018/04/17-632x451.jpg"
 categories: 
   - "noticias"
 ---

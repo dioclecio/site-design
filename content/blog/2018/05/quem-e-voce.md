@@ -1,6 +1,7 @@
 ---
 title: "Quem é você?"
 date: "2018-05-30"
+banner: "/img/antigo/2018/05/224-632x479.jpg"
 categories: 
   - "noticias"
 ---
