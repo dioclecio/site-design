@@ -1,4 +1,4 @@
-baseURL = 'https://ddm.uem.br/'
+# baseURL = 'https://ddm.uem.br/'
 # baseURL = 'localhost'
 languageCode = 'pt-BR'
 title = 'Curso de Design - Universidade Estadual de Maringá'
