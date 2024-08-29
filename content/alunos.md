@@ -23,6 +23,11 @@ Verifique a Matriz Curricular do Curso e suas respectivas disciplinas.
 
 - [Conheça mais sobre o curso](/institucional/curso)
 
+# Matrículas em Disciplinas de outros cursos
+Os cursos da UEM permitem que os alunos cursem disciplinas em outros departamentos. 
+
+ - [Veja como fazer matrícula em disciplinas em outros cursos](/blog/2024/matricula-outros-cursos).
+
 # Informações importantes
 
 Para orientar seus trabalhos indicamos alguns materiais essenciais para a realização do Curso:
