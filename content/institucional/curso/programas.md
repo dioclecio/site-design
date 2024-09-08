@@ -1,7 +1,7 @@
 ---
 title: 'Programas do Curso de Design'
 date: 2024-08-03T17:05:18-03:00
-draft: false
+# draft: false
 ---
 Conheça os programas do nosso curso de Design
 ## 1o Ano
