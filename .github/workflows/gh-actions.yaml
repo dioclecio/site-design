@@ -6,22 +6,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Executa um comando SSH no servidor
-        uses: appleboy/ssh-action@v1.0.3
+      - id: envio
+        uses: invi5H/ssh-action@v1
         with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USER }}
-          key: ${{ secrets.SSHKEY }}
-          port: ${{ secrets.SSHPORT }}
-          script_stop: true
-          - name: Entra na pasta onde estão os arquivos do Design
-            run: cd "${{ secrets.PATHDESIGN }}"
-          - name: Lista o conteúdo da pasta
-            run: ls -la 
+          SSH_HOST: ${{ secrets.HOST }}
+          SSH_USER: ${{ secrets.USER }}
+          SSH_KEY: ${{ secrets.SSHKEY }}
+          SSH_PORT: ${{ secrets.SSHPORT }}
+      - name: Entra na pasta onde estão os arquivos do Design
+        run: ssh ${{ steps.envio.outputs.SERVER }} cd "${{ secrets.PATHDESIGN }}"
+      - name: Lista o conteúdo da pasta
+        run: ssh ${{ steps.envio.outputs.SERVER }} ls -la 
         #   script: |
         #     cd "${{ secrets.PATHDESIGN }}"
         #     rm -rf public/*
         #     git pull
-        #     podman run --rm --name hugo-build -v "${{ secrets.PATHDESIGN }}:/src:rw"	--security-opt="label=disable" 	docker.io/jakejarvis/hugo-extended:latest 
+        ##     podman run --rm --name hugo-build -v "${{ secrets.PATHDESIGN }}:/src:rw"	--security-opt="label=disable" 	docker.io/jakejarvis/hugo-extended:latest 
 
     # steps:
     #   - run: echo "Esse é somente um teste para envio do ${{github.event_name}}"
