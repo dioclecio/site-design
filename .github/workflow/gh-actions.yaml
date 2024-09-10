@@ -10,5 +10,5 @@ jobs:
         uses: actions/checkout@v4
       - run: echo "Testando o repositório ${{ github.repository }}."
       - name: Listando os arquivos
-        run: ls ${{ github.workspace }}
+        run: ls -la ${{ github.workspace }} 
       - run: echo "Somente o status do repositório ${{ job.status }}."
