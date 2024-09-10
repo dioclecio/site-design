@@ -5,7 +5,6 @@ jobs:
   Entra-no-Servidor:
     runs-on: ubuntu-latest
     steps:
-      - name: Executa um comando SSH no servidor
       - id: envio
         uses: invi5H/ssh-action@v1
         with:
