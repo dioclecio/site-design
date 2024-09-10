@@ -1,0 +1,14 @@
+name: Envio dos arquivos para o servidor
+run-name: ${{ github.actor }} está enviando os arquivos para o repositório no servidor da UEM.
+on: [push]
+jobs:
+  Iniciar-a-Transferencia:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Esse é somente um teste para envio do ${{github.event_name}}"
+      - name: Testando o repositorio
+        uses: actions/checkout@v4
+      - run: echo "Testando o repositório ${{ github.repository }}."
+      - name: Listando os arquivos
+        run: ls ${{ github.workspace }}
+      - run: echo "Somente o status do repositório ${{ job.status }}."
