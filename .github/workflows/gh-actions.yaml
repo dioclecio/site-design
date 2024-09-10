@@ -5,7 +5,7 @@ jobs:
   Entra-no-Servidor:
     runs-on: ubuntu-latest
     steps:
-      - name: executing remote ssh commands using key
+      - name: Executa um comando SSH no servidor
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.HOST }}
@@ -13,7 +13,10 @@ jobs:
           key: ${{ secrets.SSHKEY }}
           port: ${{ secrets.SSHPORT }}
           script: |
-            ls -la 
+            cd "${{ secrets.PATHDESIGN }}"
+            rm -rf public/*
+            git pull
+            podman run --rm --name hugo-build -v ${{ secret.PATHDESIGN }}:/src:rw	--security-opt="label=disable" 	docker.io/jakejarvis/hugo-extended:latest 
     # steps:
     #   - run: echo "Esse é somente um teste para envio do ${{github.event_name}}"
     #   - name: Testando o repositorio
