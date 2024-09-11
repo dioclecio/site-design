@@ -5,28 +5,19 @@ jobs:
   Entra-no-Servidor:
     runs-on: ubuntu-latest
     steps:
-      - id: envio
-        uses: invi5H/ssh-action@v1
+      - name: Copiando o repositório para montar o site
+        uses: actions/checkout@master
         with:
-          SSH_HOST: ${{ secrets.HOST }}
-          SSH_USER: ${{ secrets.USER }}
-          SSH_KEY: ${{ secrets.SSHKEY }}
-          SSH_PORT: ${{ secrets.SSHPORT }}
-      - name: Entra na pasta onde estão os arquivos do Design
-        run: ssh ${{ steps.envio.outputs.SERVER }} cd "${{ secrets.PATHDESIGN }}"
-      - name: Lista o conteúdo da pasta
-        run: ssh ${{ steps.envio.outputs.SERVER }} ls -la 
-        #   script: |
-        #     cd "${{ secrets.PATHDESIGN }}"
-        #     rm -rf public/*
-        #     git pull
-        ##     podman run --rm --name hugo-build -v "${{ secrets.PATHDESIGN }}:/src:rw"	--security-opt="label=disable" 	docker.io/jakejarvis/hugo-extended:latest 
-
-    # steps:
-    #   - run: echo "Esse é somente um teste para envio do ${{github.event_name}}"
-    #   - name: Testando o repositorio
-    #     uses: actions/checkout@v4
-    #   - run: echo "Testando o repositório ${{ github.repository }}."
-    #   - name: Listando os arquivos
-    #     run: ls -la ${{ github.workspace }} 
-    #   - run: echo "Somente o status do repositório ${{ job.status }}."
+          submodules: true
+      - name: Montando o site usando Hugo
+        uses: chabad360/hugo-actions@master
+      - name: Faz a transferência do site inteiro para o destino
+        uses: easingthemes/ssh-deploy@v5.1.0
+        with: 
+            SSH_PRIVATE_KEY: ${{ secrets.SSHKEY }}
+            REMOTE_USER: ${{ secrets.SSHUSER }}
+            REMOTE_HOST: ${{ secrets.SSHHOST }}
+            REMOTE_PORT: ${{ secrets.SSHPORT }}
+            SOURCE: "public/"
+            TARGET: "${{ secrets.PATHDESIGN }}"
+            ARGS: '--include .htaccess --exclude ".*" --recursive --delete-excluded --verbose' 
