@@ -19,3 +19,9 @@ E acessar o site pelo endereço:
 
 > http://localhost:1313
 
+
+## Itens que merecem revisão
+
+- [ ] Funcionar a página dos Alunos
+- [ ] Funcionar a página de Clipping
+
