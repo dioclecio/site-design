@@ -12,7 +12,7 @@ O profissional formado na UEM deverá atuar na concepção, configuração e ge
 
 ## Matriz Curricular do Curso de Design
 
-* [Matriz Curricular do Curso 2023](<programas/PPC Design 2023  - Quadro - Matriz Curricular.pdf>)
+* [Matriz Curricular do Curso 2023](<docs/PPC Design 2023  - Quadro - Matriz Curricular.pdf>)
 
 # Programas do curso
 [Conheça os programas das disciplinas do curso de Design](programas).
@@ -23,7 +23,7 @@ A Carga Horária das AACs são regulamentadas pela [Resolução 003/2021-DSG - B
 
 Os Pedidos de AACs devem ser realizados através do SAV, [conforme orientação no site do DAA](https://daa.uem.br/academicos/graduacao/solicitacoes/atividade-academica-complementar-aac).
 
-E as atividades de Extensão são orientadas [pelo Regulamento da Extensão](<2023-regulamento-extensao.pdf>).
+E as atividades de Extensão são orientadas [pelo Regulamento da Extensão](<resolucoes/2023-regulamento-extensao.pdf>).
 
 As atividades ofertadas para [o ano de 2024 constam no Plano Anual](resolucoes/2024-plano-uce.pdf).
 
