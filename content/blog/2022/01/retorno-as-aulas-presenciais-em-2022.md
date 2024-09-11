@@ -3,7 +3,7 @@ title: "Retorno às aulas presenciais em 2022"
 date: "2022-02-17"
 categories: 
   - "noticias"
-banner: "/img/blog/2024-08-17_17-39.png"
+banner: "/img/blog/2024/2024-08-17_17-39.png"
 ---
 
 No dia 17 de Janeiro de 2022, o Campus Regional de Cianorte retornou com suas atividades presenciais. Após um longo período de isolamento social e de aulas remotas, os professores, alunos e técnicos administrativos estão ansiosos para esse novo retorno.
