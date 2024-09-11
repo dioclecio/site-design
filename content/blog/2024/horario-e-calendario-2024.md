@@ -10,7 +10,7 @@ Acompanhe as disciplinas que serão ofertadas para o 2o semestre de 2024.
 
 Veja o horário do nosso curso.
 
-- [Horário do calendário acadêmico de 2024](</alunos/2024/2024.02.01 Horário do Design - 1o e 2o semestres de 2024 v.30.pdf>)
+- [Horário do calendário acadêmico de 2024](</alunos/2024/2024.02.01 Horário do Design - 1o e 2o semestres de 2024 v.31.pdf>)
 
 # Calendário acadêmico
 Deseja saber como está o nosso calendário acadêmico?

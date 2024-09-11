@@ -20,4 +20,4 @@ jobs:
             REMOTE_PORT: ${{ secrets.SSHPORT }}
             SOURCE: "public/"
             TARGET: "${{ secrets.PATHDESIGN }}"
-            ARGS: '--include .htaccess --exclude ".*" --recursive --delete-excluded -P' 
+            ARGS: '--include .htaccess --exclude ".*" --recursive --delete-excluded' 
