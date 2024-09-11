@@ -3,6 +3,8 @@ title: 'Informações para os alunos'
 date: 2024-08-03T17:10:48-03:00
 description: "Você acadêmico do curso poderá encontrar algumas informações sobre a rotina de seu curso."
 banner: "img/banner01.jpg"
+aliases:
+    - /alunos/
 ---
 Você acadêmico do curso poderá encontrar algumas informações sobre a rotina de seu curso.
 

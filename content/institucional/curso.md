@@ -15,7 +15,7 @@ O profissional formado na UEM deverá atuar na concepção, configuração e ge
 * [Matriz Curricular do Curso 2023](<docs/PPC Design 2023  - Quadro - Matriz Curricular.pdf>)
 
 # Programas do curso
-[Conheça os programas das disciplinas do curso de Design](programas).
+[Conheça os programas das disciplinas do curso de Design](../programas).
 
 # Resoluções
 Parte da Carga Horária do Curso precisa ser cumprida com Atividades Acadêmicas Complementares e com Atividades Curriculares de Extensão.
