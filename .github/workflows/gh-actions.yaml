@@ -1,17 +1,17 @@
-name: Envio dos arquivos para o servidor
-run-name: ${{ github.actor }} está enviando os arquivos para o repositório no servidor da UEM.
+name: Enviar os arquivos para o servidor.
+run-name:  Realizar esse envio a cada mudança do site.
 on: [push]
 jobs:
   Entra-no-Servidor:
     runs-on: ubuntu-latest
     steps:
-      - name: Copiando o repositório para montar o site
+      - name: Clonar o repositório para montar os arquivos HTML.
         uses: actions/checkout@master
         with:
           submodules: true
-      - name: Montando o site usando Hugo
+      - name: Hugo Framework - Montagem dos arquivos estáticos.
         uses: chabad360/hugo-actions@master
-      - name: Faz a transferência do site inteiro para o destino
+      - name: Transfere os arquivos criados para o servidor.
         uses: easingthemes/ssh-deploy@v5.1.0
         with: 
             SSH_PRIVATE_KEY: ${{ secrets.SSHKEY }}

@@ -1,7 +1,7 @@
 ---
 title: "Aluna do Design UEM ganha Prêmio ABRE da Embalagem Brasileira 2018"
 date: "2018-10-02"
-banner: "img/antigo/2018/10/Sem-Título-4.jpg"
+banner: "/img/antigo/2018/10/Sem-Título-4.jpg"
 categories: 
   - "noticias"
 ---
