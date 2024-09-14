@@ -3,14 +3,21 @@ run-name:  Realizar esse envio a cada mudança do site.
 on: [push]
 jobs:
   Entra-no-Servidor:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Clonar o repositório para montar os arquivos HTML.
         uses: actions/checkout@master
         with:
           submodules: true
       - name: Hugo Framework - Montagem dos arquivos estáticos.
-        uses: chabad360/hugo-actions@master
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.134.2'
+          extended: true
+      - name: Construção das páginas
+        run: hugo --minify
       - name: Transfere os arquivos criados para o servidor.
         uses: easingthemes/ssh-deploy@v5.1.0
         with: 

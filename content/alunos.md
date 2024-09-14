@@ -3,8 +3,7 @@ title: 'Informações para os alunos'
 date: 2024-08-03T17:10:48-03:00
 description: "Você acadêmico do curso poderá encontrar algumas informações sobre a rotina de seu curso."
 banner: "img/banner01.jpg"
-aliases:
-    - /alunos/
+slug: /alunos/
 ---
 Você acadêmico do curso poderá encontrar algumas informações sobre a rotina de seu curso.
 
@@ -50,21 +49,21 @@ Os pedidos devem ser realizados antes das 8h da manhã.
 
 Nesta página você poderá encontrar alguns dos trabalhos concluídos nos últimos anos pelos alunos de design. Procure o trabalho de algum aluno ou pesquise pelo ano de conclusão do curso. Você pode também acessar o link do Drive com mais possibilidades de acesso aos Trabalhos de Conclusão. 
 
-* [2023](</alunos/trabalhos/2023> "Trabalhos de 2023")
-* [2022](</alunos/trabalhos/2022> "Trabalhos de 2022")
-* [2021](</alunos/trabalhos/2021> "Trabalhos de 2021")
-* [2020](</alunos/trabalhos/2020> "Trabalhos de 2020")
-* [2019](</alunos/trabalhos/2019> "Trabalhos de 2019")
-* [2018](</alunos/trabalhos/2018> "Trabalhos de 2018")
-* [2017](</alunos/trabalhos/2017> "Trabalhos de 2017")
-* [2016](</alunos/trabalhos/2016> "Trabalhos de 2016")
-* [2015](</alunos/trabalhos/2015> "Trabalhos de 2015")
-* [2014](</alunos/trabalhos/2014> "Trabalhos de 2014")
-* [2013](</alunos/trabalhos/2013> "Trabalhos de 2013")
-* [2012](</alunos/trabalhos/2012> "Trabalhos de 2012")
-* [2011](</alunos/trabalhos/2011> "Trabalhos de 2011")
-* [2010](</alunos/trabalhos/2010> "Trabalhos de 2010")
-* [2009](</alunos/trabalhos/2009> "Trabalhos de 2009")
-* [2008](</alunos/trabalhos/2008> "Trabalhos de 2008")
-* [2007](</alunos/trabalhos/2007> "Trabalhos de 2007")
-* [2006](</alunos/trabalhos/2006> "Trabalhos de 2006")
+* [2023](</alunos/2023> "Trabalhos de 2023")
+* [2022](</alunos/2022> "Trabalhos de 2022")
+* [2021](</alunos/2021> "Trabalhos de 2021")
+* [2020](</alunos/2020> "Trabalhos de 2020")
+* [2019](</alunos/2019> "Trabalhos de 2019")
+* [2018](</alunos/2018> "Trabalhos de 2018")
+* [2017](</alunos/2017> "Trabalhos de 2017")
+* [2016](</alunos/2016> "Trabalhos de 2016")
+* [2015](</alunos/2015> "Trabalhos de 2015")
+* [2014](</alunos/2014> "Trabalhos de 2014")
+* [2013](</alunos/2013> "Trabalhos de 2013")
+* [2012](</alunos/2012> "Trabalhos de 2012")
+* [2011](</alunos/2011> "Trabalhos de 2011")
+* [2010](</alunos/2010> "Trabalhos de 2010")
+* [2009](</alunos/2009> "Trabalhos de 2009")
+* [2008](</alunos/2008> "Trabalhos de 2008")
+* [2007](</alunos/2007> "Trabalhos de 2007")
+* [2006](</alunos/2006> "Trabalhos de 2006")
