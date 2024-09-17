@@ -10,7 +10,7 @@ banner: "/img/antigo/2015/08/11872305_10153100577030920_8922423106506308905_o1.j
 
 Os calouros de Design fecharam a disciplina de Prototipagem I mostrando que aprenderam a lição!  Com muita criatividade transformaram lixo eletrônico em bonecos que chamam a atenção de crianças e marmanjos.
 
-<!-- more -->
+<!--more-->
 
 ![11872305_10153100577030920_8922423106506308905_o](/img/antigo/2015/08/11872305_10153100577030920_8922423106506308905_o1.jpg)
 

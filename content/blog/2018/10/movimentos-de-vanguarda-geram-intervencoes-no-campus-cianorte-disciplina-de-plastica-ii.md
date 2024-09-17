@@ -10,7 +10,7 @@ categories:
 
 Inspiradas pelas as vanguardas artísticas, as professoras Maiara Santos e Anelise Dalberto propuseram aos alunos do primeiro ano a elaboração de intervenções com o intuito de transmitir ao observador o repertório desenvolvido ao longo da disciplina de Plástica para a compreensão, criação e exploração da forma.
 
-<!-- more -->
+<!--more-->
 
 [![](/img/antigo/2018/10/Design-sem-nome-632x356.jpg)](/img/antigo/2018/10/Design-sem-nome.jpg)
 

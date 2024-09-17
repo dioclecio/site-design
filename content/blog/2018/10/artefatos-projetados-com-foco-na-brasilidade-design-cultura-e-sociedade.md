@@ -8,7 +8,7 @@ categories:
 
 O estudo de culturas e sociedade, e a forma com a qual o design se conecta, auxiliam na formação do designer, desta maneira a disciplina de Design, Cultura e Sociedade visa mostrar aos alunos como o design se insere nas diversas culturas mundo afora, apresentado as variações em criações as quais a identidade e história de cada grupo social é o elemento mais importante de suas criações.
 
-<!-- more -->
+<!--more-->
  Dentro desse contexto, os alunos da disciplina, orientados pelo o professor Vagner Basqueroto, elaboraram produtos que representassem a cultura de um grupo social, sendo disponibilizado algumas opções de objetos e artefatos dentre os quais os alunos puderam escolher como foco. O resultado das criações ficaram ricos em detalhes culturais, referenciando ao tema da brasilidade com o objeto escolhido. Confira a seguir algumas as criações:
 
 

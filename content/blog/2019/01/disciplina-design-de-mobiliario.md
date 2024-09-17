@@ -10,7 +10,7 @@ categories:
 
 Visando o novo, a disciplina de Design de Mobiliário ministrada pelo o Prof. Marcelo Forcato, proporcionou aos discentes uma experiencia nova em explorar um conceito e projetar isso em um mobiliário, este que poderia ser feito em escala ou em tamanho real.
 
-<!-- more -->
+<!--more-->
 
 [![](/img/antigo/2018/12/interior-de-restaurante-moderno-mao-desenhada_23-2147925672.jpg)](/img/antigo/2018/12/interior-de-restaurante-moderno-mao-desenhada_23-2147925672.jpg)
 

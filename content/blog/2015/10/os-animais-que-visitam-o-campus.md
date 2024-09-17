@@ -10,7 +10,7 @@ categories:
 07 de outubro de 2015. Dia do Lagarto Teiú aparecer na UEM, próximo à Oficina de Moda. Literalmente trabalhamos entre cobras e lagartos...  
 Foto de Anderson Theodoro, com a colaboração de Eliabe Luro de Lima.
 
-<!-- more -->
+<!--more-->
 
 
 ![07 de outubro de 2015. Dia do Lagarto Teiú aparecer na UEM, próximo à Oficina de Moda. Literalmente trabalhamos entre cobras e lagartos, kkkkkkk Foto de Anderson Theodoro, com a colaboração de Eliabe Luro de Lima](/img/antigo/2015/10/lagarto.jpg) 

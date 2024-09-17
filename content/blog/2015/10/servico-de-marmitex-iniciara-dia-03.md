@@ -8,7 +8,7 @@ categories:
 
 Refeições estarão disponíveis no almoço e jantar.
 
-<!-- more -->
+<!--more-->
 
 ![](/img/antigo/2015/10/DSC_9365.jpg) 
 

@@ -11,7 +11,7 @@ categories:
 A prova do Enade - Exame Nacional de Desempenho de Estudantes, ocorre nesse domingo (22),  às 13 horas  e a participação dos alunos é essencial. Para efetivar a inscrição é necessário entrar no [sistema](http://enadeies.inep.gov.br) para preencher o questionário do estudante e tomar ciência do local de prova. Esse procedimento é obrigatório
 
 
-<!-- more -->
+<!--more-->
 
 ![Enade](/img/antigo/2015/11/enade.jpg) Prova é nesse final de semana.
 

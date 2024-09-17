@@ -10,7 +10,7 @@ categories:
 
 Os alunos da disciplina optativa de automotivo, apresentaram no dia 25/07 os modelos tridimensionais que exploram diferentes tipos de carros, como: compactos, esportivos, SUV’s e utilitários. Os _mockups_ foram feitos em _Clay_ (argila sintética), material que possibilitou a exploração de formas, detalhamento o que acabou favorecendo a criação de variados modelos.
 
-<!-- more -->
+<!--more-->
 
 [![](/img/antigo/2018/08/DSC_1873-632x376.jpg)](/img/antigo/2018/08/DSC_1873.jpg)
 

@@ -9,7 +9,7 @@ categories:
 
 A preceptoria é uma espécie de conhecimento compartilhado. Ou seja, o aluno que já está um degrau acima, porque cursou determinada matéria, auxilia aqueles que estão cursando-a, sob a orientação do professor responsável pela disciplina.
 
-<!-- more -->
+<!--more-->
 
 ![preceptoria](/img/antigo/2015/08/preceptoria.jpg)
 

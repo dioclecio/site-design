@@ -8,7 +8,7 @@ categories:
 
 Via - Paçoca com Cebola.
 
-<!-- more -->
+<!--more-->
 ![protesto](/img/antigo/2015/05/protesto1.jpg)
 
 O deputado estadual Jonas Guimarães, do PMDB de Cianorte, o Secretário de Segurança Fernando Francischini e o governador Beto Richa (PSDB) foram muito lembrados no sábado.

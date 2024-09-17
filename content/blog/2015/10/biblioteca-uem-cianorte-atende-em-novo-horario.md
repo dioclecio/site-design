@@ -13,7 +13,7 @@ Desde o último dia 20 a Biblioteca do Campus de Cianorte está atendendo em nov
 * Noite - das 19h às 22h (2ª a 6ª feira)
 
 
-<!-- more -->
+<!--more-->
 
 ![DSC_9371](/img/antigo/2015/10/DSC_9371.jpg)
 

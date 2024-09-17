@@ -9,7 +9,7 @@ categories:
 As primeiras refeições destinadas à comunidade do Campus Regional de Cianorte (CRC)  foram entregues no último dia 03. O serviço vem para suprir a demanda, visto que no local não há um estabelecimento alimentício.
 
 
-<!-- more -->
+<!--more-->
 
 Como foi divulgado em [post](/blog/2015/10/servico-de-marmitex-iniciara-dia-03/ "post") , quem deseja utilizar o serviço  deve fazer o pedido com antecedência de um dia na secretaria do Departamento de Pedagogia (DPD) e comprar os passes no Departamento de Design e Moda (DDM). O preço de cada passe é R$1,60  para os acadêmicos e R$2,40 para servidores.
 

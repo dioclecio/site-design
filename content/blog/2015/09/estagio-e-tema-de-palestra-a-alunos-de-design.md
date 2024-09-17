@@ -10,7 +10,7 @@ banner: "/img/antigo/2015/09/foto-site.jpg"
 
 No último dia 02 de setembro acadêmicos do quarto ano de Design tiveram a oportunidade de esclarecer  dúvidas em relação ao estágio. Quem abordou o assunto com maestria foi Laura Berner Rocha, prospectora, responsável pelo Atendimento à Empresas e Instituições de Ensino do Centro de Integração Empresa - Escola do Paraná (CIEE/PR).
 
-<!-- more -->
+<!--more-->
 
 ![Na reta final do Curso, os alunos do quarto ano de Design esclareceram as dúvidas sobre o Estágio Obrigatório (Foto: Aida Franco)](/img/antigo/2015/09/foto-site.jpg) Na reta final do Curso, os alunos do quarto ano de Design esclareceram as dúvidas sobre o Estágio Obrigatório (Foto: Aida Franco)
 

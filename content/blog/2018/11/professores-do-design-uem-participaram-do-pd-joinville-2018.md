@@ -8,7 +8,7 @@ categories:
 
 Nos dias  05 a 08 de novembro de 2018, ocorreu o 13º Congresso Pesquisa e Desenvolvimento em Design em Joinville - SC, sendo o evento mais relevante da área no país, o P&D Design objetiva ser um espaço qualificado para a difusão, trocas e debates sobre investigação e atuação no campo do Design, envolvendo pós-graduação, institutos de pesquisa, empresas e organizações. Entre seus compromissos estão: divulgar, promover a integração, difundir, aproximar e consolidar o Design como campo de pesquisa estratégica para o desenvolvimento da sociedade.
 
-<!-- more -->
+<!--more-->
 
 
 [![](/img/antigo/2018/11/24991477_773888176149826_778965112592075448_n.jpg)](/img/antigo/2018/11/24991477_773888176149826_778965112592075448_n.jpg)

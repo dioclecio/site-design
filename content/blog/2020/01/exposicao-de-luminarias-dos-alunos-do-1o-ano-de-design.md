@@ -18,7 +18,6 @@ Turma do 1 Ano de 2019
 
 Os professores Maiara Santos e Marcelo Forcato promoveram a apresentação dos trabalhos no Auditório do Campus Regional de Cianorte. A apresentação contou com a participação da profa. Anelise Dalberto, diretora do Campus da UEM em Cianorte. O tema dos trabalhos deste ano foi livre, permitindo com que as propostas dos alunos pudessem explorar diversos aspectos em suas composições, como a industrialização, o brutalismo e outros estilos geométricos.
 
-![](/img/antigo/2020/01/2019-Luminárias-Plastica-0100005.jpg)
 
 Parte da turma do 1o ano de 2019 após a apresentação das luminárias. Estiveram presentes os profs. Marcelo Forcato, Anelise Dalberto e Maiara Santos.
 

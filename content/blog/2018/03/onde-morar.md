@@ -9,7 +9,7 @@ categories:
 
 
 Procurando lugar pra morar? Onde fazer compras da casa? E se precisar de médico ou remédios?
-<!-- more -->
+<!--more-->
 
 
 ![](/img/antigo/2018/03/Lista-de-Imobiliárias-632x474.png)

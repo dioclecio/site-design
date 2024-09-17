@@ -7,7 +7,7 @@ categories:
 
 Conheça alguns dos materiais essenciais para desenvolver as atividades do nosso curso.
 
-<!-- more -->
+<!--more-->
 
 [![](/img/antigo/2018/12/conceito-de-produtividade-desenhada-mao-colorido_23-2147959490.jpg)](/img/antigo/2018/12/conceito-de-produtividade-desenhada-mao-colorido_23-2147959490.jpg)
 

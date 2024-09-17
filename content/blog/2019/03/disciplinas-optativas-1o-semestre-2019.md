@@ -8,7 +8,7 @@ categories:
 
 Explorar os conhecimentos na universidade, com disciplinas oferecidas de forma optativas faz parte da formação do profissional, visando isso o Curso de Design disponibiliza algumas disciplinas com tais características que agregam novos conhecimentos aos alunos.
 
-<!-- more -->
+<!--more-->
 
 ![](/img/antigo/2019/03/463366-PFPEV4-320-1-632x422.jpg)
 

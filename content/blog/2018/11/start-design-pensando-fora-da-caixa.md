@@ -9,7 +9,7 @@ categories:
 Entre os dias 29/11 e 01/12, o campus da UEM, em Cianorte, receberá atividades especiais da Semana Acadêmica do Curso de Design da UEM, explorando a temática "pensado fora da caixa", que trará questões e reflexões externas ao Design.
 
 
-<!-- more -->
+<!--more-->
 
 [![](/img/antigo/2018/11/44855824_733091880359091_2327831-632x356.gif)](/img/antigo/2018/11/44855824_733091880359091_2327831.gif)
 

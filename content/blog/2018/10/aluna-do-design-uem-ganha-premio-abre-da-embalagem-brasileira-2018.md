@@ -9,7 +9,7 @@ categories:
 
 O Prêmio ABRE da Embalagem Brasileira 2018 – promovido pela ABRE – Associação Brasileira de Embalagem revela os vencedores deste ano, dentre estes, está a aluna Roberta Oliveira, reconhecida pelo seu esforço em aprimorar a qualidade, o design, a funcionalidade e a inovação, além dos processos e a sustentabilidade, contribuindo para a valorização da embalagem nacional.
 
-<!-- more -->
+<!--more-->
 
 [![](/img/antigo/2018/10/Sem-Título-4.jpg)](/img/antigo/2018/10/Sem-Título-4.jpg)
 

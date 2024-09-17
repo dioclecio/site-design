@@ -9,7 +9,7 @@ categories:
 
 Explorar os conhecimentos na universidade, com disciplinas oferecidas de forma optativas faz parte da formação do profissional, visando isso o Curso de design disponibiliza algumas disciplinas com tais características que agregam novos conhecimentos aos alunos, pensando nisso, compilamos as ementas e objetivos de cada uma.
 
-<!-- more -->
+<!--more-->
 
 
 [![](/img/antigo/2018/12/vector-ilustracao-pop-art-de-um-homem-e-uma-mulher-sentada-em-uma-mesa-de-negociacao-vista-superior_1441-598.jpg)](/img/antigo/2018/12/vector-ilustracao-pop-art-de-um-homem-e-uma-mulher-sentada-em-uma-mesa-de-negociacao-vista-superior_1441-598.jpg)

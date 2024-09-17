@@ -8,7 +8,7 @@ categories:
 
 Em torno de 60 alunos e professores do Curso de Design do Campus Cianorte, participaram na última terça-feira (03/04/2018) de um mutirão para melhorar o ambiente das crianças do Centro de Educação Infantil Pequeno Príncipe localizado no distrito de Vidigal, no município de Cianorte-PR.
 
-<!-- more -->
+<!--more-->
 
 ![](/img/antigo/2018/04/sem-título-94-632x352.jpg)
 

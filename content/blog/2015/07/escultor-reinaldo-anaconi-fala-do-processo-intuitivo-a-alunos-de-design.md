@@ -9,7 +9,7 @@ categories:
 
 O escultor Reinaldo Julyano Anaconi, morador do distrito de São Lourenço (Cianorte) foi o convidado da última aula da disciplina de Tópicos Especiais, na noite dessa última quarta (30). Na plateia, além de alunos do quarto ano de Design, estavam ainda alunos do primeiro  e segundo ano.
 
-<!-- more -->
+<!--more-->
 
 [![Juliano (9)](/img/antigo/2015/07/Juliano-9.jpg)](/img/antigo/2015/07/Juliano-9.jpg)
 

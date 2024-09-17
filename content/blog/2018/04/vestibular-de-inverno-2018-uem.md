@@ -10,7 +10,7 @@ categories:
 
 Faça sua inscrição no vestibular de inverno 2018 da UEM!
 
-<!-- more -->
+<!--more-->
 
 ![](/img/antigo/2018/04/17-632x451.jpg)
 O Curso de Design, proporciona ao estudante, diversos conhecimentos técnicos para realização de projetos de produtos, além de conhecimentos complementares da área gráfica. Conta com professores experientes que se atualizam constantemente.

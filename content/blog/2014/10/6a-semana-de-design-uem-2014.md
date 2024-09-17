@@ -7,7 +7,7 @@ categories:
 
 Nesta quinta-feira dia 30/10, o curso de Design estará promovendo a 6a Semana de Design da UEM no campus de Cianorte.
 
-<!-- more -->
+<!--more-->
 
 Maiores informações, [visitem a página da divulgação do evento](/blog/2014/10/6a-semana-academica-de-design-uem-ser-designer-amanha/ "6ª Semana Acadêmica de Design UEM – Ser Designer amanhã.").
 

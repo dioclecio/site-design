@@ -11,7 +11,7 @@ categories:
 
 Luana Barbosa Nunes é graduanda do Curso de Design da Universidade Estadual de Maringá, Campus Regional de Cianorte, e é uma das 18 finalistas do Concurso AuDITIONS Recombinações 2014/2015. Na categoria Revelação ela foi uma das 4 classificadas. Milielton Brito Cardoso, ex-acadêmico da UEM, já está no mercado de trabalho e também conquistou uma vaga entre os outros 13 finalistas da categoria Designer. A cerimônia de revelação do vencedor acontece nessa quinta-feira (03), no Palácio das Arte, em Belo Horizonte - MG.
 
-<!-- more -->
+<!--more-->
 
 ![](/img/antigo/2015/12/12319251_949615441775990_80598177_n.jpg)
 ![](/img/antigo/2015/12/10414381_673004352806329_3659317096655161676_n.jpg)

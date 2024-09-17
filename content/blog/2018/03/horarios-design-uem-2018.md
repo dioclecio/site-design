@@ -10,7 +10,7 @@ categories:
 
 Para muitos, o início do ano letivo com um monte de informações, pode parecer mandarim. DAA, CRC, AC, DDM, ETC...
 
-<!-- more -->
+<!--more-->
 
 ![](/img/antigo/2018/03/chinese-text-2-1314346.jpg)
 

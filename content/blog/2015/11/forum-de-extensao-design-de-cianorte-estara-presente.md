@@ -8,7 +8,7 @@ categories:
 
 Ouvintes terão direito a certificados.
 
-<!-- more -->
+<!--more-->
 
 ![UEM Maringá](/img/antigo/2015/11/uem-maringa.jpg) 
 

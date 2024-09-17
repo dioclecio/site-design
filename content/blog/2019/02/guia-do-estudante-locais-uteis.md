@@ -8,7 +8,7 @@ categories:
 
 Conheça alguns locais de interesse para o estudante de design em Cianorte.
 
-<!-- more -->
+<!--more-->
 
 ![](/img/antigo/2019/02/conceito-de-produtividade-moderna-com-design-plano_23-2147973429.jpg)
 

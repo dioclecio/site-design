@@ -8,7 +8,7 @@ categories:
 
 Materiais essenciais para se trabalhar no curso de design.
 
-<!-- more -->
+<!--more-->
 
 ![](/img/antigo/2018/12/conceito-de-produtividade-desenhada-mao-colorido_23-2147959490.jpg)
 

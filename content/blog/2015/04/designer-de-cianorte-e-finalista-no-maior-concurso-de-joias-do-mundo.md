@@ -8,7 +8,7 @@ categories:
 
 Fonte: Tribuna de Cianorte - 12/04/2015
 
-<!-- more -->
+<!--more-->
  
 
 ![foto1](/img/antigo/2015/04/foto11.jpg)

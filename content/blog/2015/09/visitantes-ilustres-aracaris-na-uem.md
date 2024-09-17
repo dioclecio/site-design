@@ -10,7 +10,7 @@ categories:
 
 Desde a última sexta (05) um casal de araçaris chama a atenção no campus da UEM Cianorte. "Seduzidos" pelos reflexos nos espelhos, os pássaros delimitaram o território durante todo o final de semana, marcando presença mesmo durante a segunda chuvosa.
 
-<!-- more -->
+<!--more-->
 
 ![Araçari "seduzido" por seu reflexo no espelho (Foto: Fernando Casado)](/img/antigo/2015/09/Foto-Araçari-Fernando.jpg) 
 Araçari "seduzido" por seu reflexo no espelho (Foto: Fernando Casado)

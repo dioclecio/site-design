@@ -13,7 +13,7 @@ categories:
 
 A listagem dos vencedores do Concurso de Fotografias Primavera 2015 é um show de talento e cores! E mostra como a fotografia encanta profissionais e amadores de norte a sul do Brasil e de outros países também. Afinal, foram 210 fotos inscritas de dez estados brasileiros e de países como Portugal, Estados Unidos e Uruguai.
 
-<!-- more -->
+<!--more-->
 
 
 ![Primeiro lugar - Amadores (Cianorte - PR)](/img/antigo/2015/11/Amador-1-lugar-e1448320844776.jpg) 

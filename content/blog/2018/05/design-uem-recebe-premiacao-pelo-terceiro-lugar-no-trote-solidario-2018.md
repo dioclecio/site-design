@@ -10,7 +10,7 @@ categories:
 
 Na última segunda feira ( 07/05) aconteceu no gabinete da reitoria da Universidade Estadual de Maringá a premiação dos cinco primeiros colocados do Trote solidário 2018, sendo que o Curso de Design ficou em terceiro lugar. Segue a lista geral dos classificados:
 
-<!-- more -->
+<!--more-->
 1º  Engenharia de Alimentos e Tecnologia de Alimentos - CAU/CTC;
 2º  Medicina;
 3º  Design - CRC;

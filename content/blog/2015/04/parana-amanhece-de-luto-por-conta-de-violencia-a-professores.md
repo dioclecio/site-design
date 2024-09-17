@@ -10,7 +10,7 @@ categories:
 
 O Paraná amanheceu de luto nessa véspera do Dia Internacional do Trabalho (1º de maio), em virtude do massacre contra os professores ocorrido no Centro Cívico, na Capital do Paraná, na tarde dessa quarta, 29.
 
-<!-- more -->
+<!--more-->
 
 ![uem](/img/antigo/2015/05/uem.jpg)
 

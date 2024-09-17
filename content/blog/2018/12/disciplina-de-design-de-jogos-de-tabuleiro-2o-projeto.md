@@ -8,7 +8,7 @@ categories:
 
 Os discentes da disciplina de Design de Jogos de Tabuleiro desenvolveram mais quatro jogos com temáticas livres, onde puderam explorar a experiência adquirida nos projeto iniciais da disciplina e além disso, lidar com desafios que eram lançados em cada orientação, com a inclusão de novos itens ou elementos aos projetos que ainda estavam em fase de criação. Dessa forma, foi possível exercitar a criatividade e imaginação, além de técnicas de metodologia de projeto. Confira as criações finais:
 
-<!-- more -->
+<!--more-->
 
 
 [![](/img/antigo/2018/12/DSC_3267-632x572.jpg)](/img/antigo/2018/12/DSC_3267.jpg) 

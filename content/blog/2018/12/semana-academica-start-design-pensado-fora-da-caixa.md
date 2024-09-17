@@ -13,7 +13,7 @@ categories:
 Entre os dias 29/11, 30/11 e 01/12 ocorreu a semana acadêmica start design: pensado fora da caixa, com palestras e workshops enriquecedores aos acadêmicos, o evento contou com renomados nomes do design nacional.
 
 
-<!-- more -->
+<!--more-->
 
 ![](/img/antigo/2018/11/44855824_733091880359091_2327831.gif)
 

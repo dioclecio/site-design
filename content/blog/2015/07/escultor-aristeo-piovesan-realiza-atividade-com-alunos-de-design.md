@@ -10,7 +10,7 @@ banner: "/img/antigo/2015/07/5.jpg"
 
 Os alunos do quarto ano de Design tiveram uma aula, na disciplina de Tópicos Especiais,  com um convidado especial, na primeira semana após a greve: o escultor cianortense Aristeo Piovesan.
 
-<!-- more -->
+<!--more-->
 
 ![5](/img/antigo/2015/07/5.jpg)
 

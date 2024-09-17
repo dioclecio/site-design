@@ -11,7 +11,7 @@ categories:
 André Makoski tem 18 anos e saiu de Goioerê, no interior do Paraná, para cursar o primeiro ano do curso de Design da UEM, em Cianorte.  “Escolhi o curso de Design porque desde pequeno adorava criar ou inventar coisas que tinham alguma funcionalidade ou que servissem de decoração”, conta o universitário.  André tem ainda uma grande afinidade com o mundo da música e no final de 2014 fez um ‘pé de meia’ justamente por conta de seu gosto musical.
 
 
-<!-- more -->
+<!--more-->
 
 
 Há um bom tempo André adquiriu o hábito de criar uma  playlist no YouTube com cerca de 50 a 60 clipes de músicas pop para uso pessoal. “Montei minha playlist e após um  mês e pouco depois fui ver que a playlist estava ganhando muitas vizualizações e não parava. Quando chegou a 1 milhão de visualizações eu fiquei surpreso”, relembra. De um milhão a playlist saltou para 2 milhões, 3 milhões. “Eu parei de acompanhar as  visualizações e quando retornei ela estava com 48  views. Cerca de 5 meses depois da criação, apareceu uma empresa querendo comprar minhas playlist, fizeram várias propostas e recusei todas”, conta André.

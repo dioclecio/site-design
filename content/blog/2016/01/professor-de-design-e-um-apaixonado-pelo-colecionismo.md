@@ -10,7 +10,7 @@ categories:
 500 papéis de bala. Muito lixo, não? Não! Um tesouro valioso para uma criança de sete anos que cresceria apaixonada pela arte de colecionar os mais 
 variados objetos.  O hobby  de  Joner de Lima Dias "prata da casa", formado em Design no ano de 2007, que  voltou em 2015 para o Curso - agora como 
 professor - virou objeto de estudo em suas pesquisas da especialização e, futuramente, no mestrado.
-<!-- more -->
+<!--more-->
   
 ![JONER3](/img/antigo/2015/12/JONER3.jpg) Colecionismo saudável é indício de bagagem cultural e boas amizades.
 

@@ -9,7 +9,7 @@ categories:
 
 Os alunos Vitor Okuma Lonchiati, Mariane Lumi Mukai e Naomi Fukuyama Parra, do terceiro ano do curso de Design do Campus Regional de Cianorte, foram os vencedores na categoria Estudantes, do Prêmio Bim.bon 2015.
 
-<!-- more -->
+<!--more-->
 
 [![colbie](/img/antigo/2015/06/colbie.jpg)](/img/antigo/2015/06/colbie.jpg)
 

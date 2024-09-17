@@ -12,7 +12,7 @@ A UEM lança edital de Auxílio Alimentação para alunos (as) que tenham dificu
 
 ![](/img/antigo/2019/03/3049.png)
 
-<!-- more -->
+<!--more-->
 
 
 A Universidade acredita que um dos aspectos sociais da instituição é proporcionar acesso à alimentação de maneira digna, organizada e com qualidade. Dessa forma, também abre espaço com esta iniciativa para que mais pessoas possam ter acesso ao recurso, de maneira que assim, possam aumentar a qualidade de seus estudos.

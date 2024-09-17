@@ -10,7 +10,7 @@ categories:
 
 Vai ser dada a largada da II Corrida Pedestre da UEM, com 5km de percurso. O evento está programado para o dia 22 de agosto, um sábado, às 17:30 horas, com partida do campus da UEM Cianorte.
 
-<!-- more -->
+<!--more-->
 
 
 ![](/img/antigo/2015/08/cartaz.jpg)

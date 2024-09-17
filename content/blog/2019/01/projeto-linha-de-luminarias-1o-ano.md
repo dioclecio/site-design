@@ -13,7 +13,7 @@ tags:
 
 Os acadêmicos do primeiro ano concluiram o projeto da linha de luminárias, que teve como objetivo estipulado pelas Profª. Maiara Santos e Anelise Dalberto a elaboração, criação e execução de uma linha de luminárias contendo quatro modelos com opções para o chão, parede, mesa e teto.
 
-<!-- more -->
+<!--more-->
 
 
 ![Fotos das luminárias](/img/antigo/2018/12/DSC_3270.jpg)

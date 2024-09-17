@@ -8,7 +8,7 @@ categories:
 
 A biblioteca do campus recebeu a plataforma "SophiA Biblioteca" este que é um aplicativo que permite a comunicação dos alunos com a Biblioteca Central e as demais bibliotecas setoriais da Universidade, dando acesso a diversos serviços, tais como renovação de empréstimos, reservas de livros ou pesquisa de publicações digitais, entre outros.
 
-<!-- more -->
+<!--more-->
 
 [![](/img/antigo/2019/03/DSC_2749-632x421.jpg)](/img/antigo/2019/03/DSC_2749.jpg)
 

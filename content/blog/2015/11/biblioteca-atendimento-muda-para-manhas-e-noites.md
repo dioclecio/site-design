@@ -10,7 +10,7 @@ categories:
 
 A Biblioteca do Campus de Cianorte está atendendo em novo horário, desde o último dia 10. A alteração foi necessária pois , em virtude do afastamento para tratamento de saúde de um dos funcionários, o trabalho em três turnos estava sendo executado por apenas uma funcionária.
 
-<!-- more -->
+<!--more-->
 
 
 ![Foto da Biblioteca](/img/antigo/2015/11/foto-biblioteca.jpg) Novo horário de atendimento. (Foto: Érika Hidemi)

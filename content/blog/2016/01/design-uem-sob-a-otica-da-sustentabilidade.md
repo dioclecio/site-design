@@ -11,7 +11,7 @@ categories:
 
 A necessidade de produtos que ofereçam um menor impacto ao meio ambiente tem se mostrado maior a cada dia. A disciplina de Design & Sustentabilidade do Curso de Design da UEM tem por objetivo munir os futuros designers de recursos para que possam desenvolver tais produtos.
 
-<!-- more -->
+<!--more-->
 
 ![Caixas sob a ótica da Sustentabilidade](/img/antigo/2016/01/CAIXAS21.jpg)   
 ![Caixas sob a ótica da Sustentabilidade](/img/antigo/2016/01/CAIXAS6.jpg)

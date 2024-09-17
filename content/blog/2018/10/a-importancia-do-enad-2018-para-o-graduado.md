@@ -9,7 +9,7 @@ categories:
 
 O Exame Nacional de Desempenho de Estudantes (Enade) que avalia o rendimento dos concluintes dos cursos de graduação está se aproximando e é de suma importância tanto para o curso quanto para os estudantes a participação e dedicação na hora da realização da prova.
 
-<!-- more -->
+<!--more-->
 
 [![](/img/antigo/2018/10/enade-2018-632x333.jpg)](/img/antigo/2018/10/enade-2018.jpg)
 
