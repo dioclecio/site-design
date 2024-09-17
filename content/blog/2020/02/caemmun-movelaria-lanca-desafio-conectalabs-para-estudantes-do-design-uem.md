@@ -7,6 +7,8 @@ categories:
 
 A Caemmun Movelaria, com sede em Arapongas, é uma das maiores empresas no setor de móveis do Brasil. Em 20 de Janeiro, os alunos do Design UEM realizaram uma visita técnica para acompanhar o processo de fabricação dos mobiliários produzidos pela marca.
 
+<!--more-->
+
 Para estimular a integração dos estudantes com o setor moveleiro, foi lançado para os visitantes o desafio ConectaLabs, convidando-os a desenvolver propostas de produtos para a Caemmun. A expectativa é fomentar o design como ferramenta de inovação e aproximar os alunos do mercado de trabalho.
 
 **O tema do desafio.**  

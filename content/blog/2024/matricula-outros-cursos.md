@@ -8,7 +8,10 @@ banner: "/img/blog/2024/2024.08.29-estudante-design.jpeg"
 
 Deseja cursar disciplinas de outros cursos?
 
-Converse com o coordenador do curso que deseja frequentar. Conheça os horários das disciplinas que são ofertadas. 
+Converse com o coordenador do curso que deseja frequentar. 
+<!--more-->
+
+Conheça os horários das disciplinas que são ofertadas. 
 
 Você pode cursar disciplinas em outro curso como extracurricular ou como disciplina optativa. A resolução da UEM limita até 3 disciplinas por ano, sendo necessária a autorização dos coordenadores envolvidos. 
 

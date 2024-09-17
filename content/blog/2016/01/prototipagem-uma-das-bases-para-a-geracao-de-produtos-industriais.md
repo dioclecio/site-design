@@ -6,9 +6,13 @@ categories:
   - "noticias"
 ---
 
-![Caixas](/img/antigo/2016/01/CAIXAS.jpg) MDF foi tomado pela criatividade.
+
 
 O colorido e os adereços das caixas de MDF chamavam a atenção no estúdio de fotografia. Dispostas lado a lado, cada produto tinha próximo uma foto de seu autor, a fim de facilitar a avaliação do professor da disciplina de Prototipagem II, Ricardo Tiradentes Barbosa.
+
+<!-- more -->
+
+![Caixas](/img/antigo/2016/01/CAIXAS.jpg) MDF foi tomado pela criatividade.
 
 "O tamanho das caixas eram iguais, porém não havia limites para que os alunos criassem compartimentos. Cada aluno cortou e preparou as peças, que foram coladas, montadas, lixadas e customizadas", explicou o professor Ricardo.
 

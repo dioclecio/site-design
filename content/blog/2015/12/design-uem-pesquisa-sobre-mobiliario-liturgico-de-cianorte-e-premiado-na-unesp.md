@@ -6,9 +6,13 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2015/12/12358324_926289667454195_1660453335_n.jpg) Brenda Maria recebeu menção honrosa durante o II Simpósio Interdesigners.
+
 
 O curso de Design da Universidade Estadual de Maringá, Campus Regional de Cianorte, está encerrando o ano com saldo positivo no que concerne à participação em eventos, consolidando, desse modo, o tripé que envolve o Ensino, Pesquisa e Extensão.  E, dessa vez,  quem deu sua parcela de contribuição foi a acadêmica do terceiro ano, Brenda Maria Saes Palma. Ela apresentou artigo e recebeu menção honrosa durante o II Simpósio Interdesigners 2015, evento realizado na Unesp - Bauru. Seu trabalho foi classificado entre os 05 melhores do evento, ultrapassando inclusive textos de alunos que estão na pós-graduação.
+
+<!-- more -->
+![](/img/antigo/2015/12/12358324_926289667454195_1660453335_n.jpg) Brenda Maria recebeu menção honrosa durante o II Simpósio Interdesigners.
+
 
 "É  um evento paralelo ao Inter que tem todo ano e foi o segundo ano de sua realização, como forma de incentivar a pesquisa científica dos alunos, e mais do que isso, de aproximar o aluno da proposta de um dia se tornar professor", conta Brenda. Segundo a universitária esse é também um estímulo para que após a graduação os estudos avancem.
 

@@ -9,6 +9,8 @@ banner: "/img/antigo/2015/09/12019831_10153255051459952_5875405592259476003_n.jp
 
 A proposta do projeto final da Disciplina de Design de Embalagem I era de os alunos do terceiro ano usarem todo o conhecimento a respeito do universo das embalagens, visto no decorrer do semestre, para desenvolver um projeto com foco no público infantil. "Sempre procura-se alinhar as discussões e o desenvolvimento realizados na disciplina com temas do cotidiano - neste caso, o público infantil foi escolhido devido à proximidade com o Dia das Crianças", explica o professor da disciplina, Fabiano Burgo.
 
+<!-- more -->
+
 Foi apresentada uma breve teoria sobre desenvolvimento humano segundo Piaget, que apresenta uma série de fases de acordo com a faixa etária das crianças - com base nisto foi proposto que, ao contrário de se utilizar das embalagens como uma mera ferramenta de marketing, os alunos tentassem entender a visão das crianças e desenvolvessem seus projetos com foco nelas.
 
 Alguns trabalhos estão incompletos pois foram, literalmente, degustados pelos universitários...

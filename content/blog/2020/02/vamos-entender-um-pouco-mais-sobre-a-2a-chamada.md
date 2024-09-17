@@ -8,6 +8,8 @@ banner: "/img/antigo/2020/02/Prancheta-1.png"
 
 Hoje, 10/02 às 14h, o resultado da 2ª chamada dos vestibulares da UEM já estará disponível!
 
+<!--more-->
+
 As chamadas dos vestibulares às vezes podem parecer um pouco confusas e causar com que alguns aprovados percam as datas de matrícula.
 
 Para ajudar na compreensão, elaboramos um _storyboard_ ilustrado sobre o assunto:

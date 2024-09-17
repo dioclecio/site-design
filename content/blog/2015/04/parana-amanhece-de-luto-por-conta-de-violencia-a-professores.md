@@ -6,9 +6,13 @@ categories:
   - "noticias"
 ---
 
-![uem](/img/antigo/2015/05/uem.jpg)
+
 
 O Paraná amanheceu de luto nessa véspera do Dia Internacional do Trabalho (1º de maio), em virtude do massacre contra os professores ocorrido no Centro Cívico, na Capital do Paraná, na tarde dessa quarta, 29.
+
+<!-- more -->
+
+![uem](/img/antigo/2015/05/uem.jpg)
 
 Enquanto a base governista aprovava o projeto de Lei que colocará em xeque a Previdência do funcionalismo público estadual, do lado de fora da Assembleia Legislativa, os professores eram bombardeados do alto de helicópteros com bombas de efeito moral e do chão surgiam balas de borracha e cacetetes. Inclusive crianças de um Centro de Educação Infantil foram atingidas pelo gás.
 

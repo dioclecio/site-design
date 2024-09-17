@@ -8,9 +8,15 @@ categories:
 
  
 
-![](/img/antigo/2018/11/44855824_733091880359091_2327831.gif)
+
 
 Entre os dias 29/11, 30/11 e 01/12 ocorreu a semana acadêmica start design: pensado fora da caixa, com palestras e workshops enriquecedores aos acadêmicos, o evento contou com renomados nomes do design nacional.
+
+
+<!-- more -->
+
+![](/img/antigo/2018/11/44855824_733091880359091_2327831.gif)
+
 
 A programação teve workshops durante os períodos da manhã e tarde,  sendo oferecido diversos temas proporcionando uma nova experiência a todos, exemplificando e incentivando como pensar fora da caixa e estar sempre inovando.
 

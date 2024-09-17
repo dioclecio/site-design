@@ -8,6 +8,8 @@ banner: "/img/blog/2024/2024-08-20_21-36.png"
 
 Acompanhe as disciplinas que serão ofertadas para o 2o semestre de 2024. 
 
+<!--more-->
+
 [![Horário de 2024](/img/blog/2024/2024-08-20_21-36.png)](</alunos/2024/2024horario-v31.pdf>)
 
 Baixe o horário em formato PDF:

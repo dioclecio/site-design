@@ -6,9 +6,12 @@ categories:
   - "noticias"
 ---
 
-[![](/img/antigo/2018/10/enade-2018-632x333.jpg)](/img/antigo/2018/10/enade-2018.jpg)
 
 O Exame Nacional de Desempenho de Estudantes (Enade) que avalia o rendimento dos concluintes dos cursos de graduação está se aproximando e é de suma importância tanto para o curso quanto para os estudantes a participação e dedicação na hora da realização da prova.
+
+<!-- more -->
+
+[![](/img/antigo/2018/10/enade-2018-632x333.jpg)](/img/antigo/2018/10/enade-2018.jpg)
 
 O objetivo do Enade é avaliar o desempenho dos estudantes com relação aos conteúdos programáticos previstos nas diretrizes curriculares dos cursos de graduação, o desenvolvimento de competências e habilidades necessárias ao aprofundamento da formação geral e profissional, e o nível de atualização dos estudantes com relação à realidade brasileira e mundial.
 

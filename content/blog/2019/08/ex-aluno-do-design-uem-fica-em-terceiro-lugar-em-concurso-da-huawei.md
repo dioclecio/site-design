@@ -8,6 +8,8 @@ categories:
 
 No mês de junho, foi lançado o primeiro Concurso de Design de Emoji da Comunidade HUAWEI ("The 1st HUAWEI Community Emoji Design Contest”), que tinha como objetivo definir novos emotes/stickers/emojis para toda a comunidade da marca.
 
+<!--more-->
+
 A HUAWEI é uma empresa multinacional chinesa de equipamentos para redes e telecomunicações. Atualmente é a maior fornecedora de equipamentos para redes e telecomunicações do mundo.
 
 Tivemos a ótima notícia de que um de nossos ex-alunos, Felipe Ishivatari, ficou com a terceira colocação com o seu conjunto de stickers “Daily Emotions”.

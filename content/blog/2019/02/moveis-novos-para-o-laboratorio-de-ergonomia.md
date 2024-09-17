@@ -6,9 +6,13 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2018/12/enfoque-madeiras.jpg)
+
 
 O desenvolvimento de um projeto é de suma importância para a formação do designer, neste contexto a Disciplina de Metodologia de Projeto II, lecionada pela a Profª. Cristina El Katel,  proporcionou aos alunos do primeiro ano o desafio de projetar o mobiliário para o laboratório de ergonomia a partir de madeira de demolição, está Peroba Rosa.
+
+<!-- more -->
+
+![](/img/antigo/2018/12/enfoque-madeiras.jpg)
 
 Com o início do projeto os alunos tiveram a experiência completa em uma simulação real a qual foi seguido os requisitos projetuais para a execução do móvel até a entrega final. O processo de criação contou com diversas técnicas de geração de alternativas, guiando os discentes pela escolha do modelo que melhor se adequasse com a preferência do cliente para uma experiência completa.
 

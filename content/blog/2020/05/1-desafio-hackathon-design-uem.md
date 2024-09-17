@@ -6,7 +6,9 @@ categories:
 banner: "/img/antigo/2020/05/POST-DESAFIO-DESIGN-UEM-2020-PÓS-COVID-19-a-NOVAS-DATAS.jpg"
 ---
 
-## Soluções de Design para o Pós COVID-19
+Soluções de Design para o Pós COVID-19
+
+<!--more-->
 
 ![](/img/antigo/2020/05/POST-DESAFIO-DESIGN-UEM-2020-PÓS-COVID-19-a-NOVAS-DATAS.jpg)
 

@@ -32,7 +32,6 @@ O departamento de design e moda da universidade estadual de Maringá parabeniza 
 
 Vídeo da visita ao lar dos velhinhos produzido pelos alunos.
 
-{{<rawhtml>}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pc2CyckS18Q?si=Qbl54PGg0T9ApS5q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-{{</rawhtml>}}
+{{< youtube pc2CyckS18Q >}}
+
 

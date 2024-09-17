@@ -5,9 +5,13 @@ categories:
   - "noticias"
 ---
 
-![FOTOS PRIMEIRO ANO CADEIRAS](/img/antigo/2015/11/FOTOS-PRIMEIRO-ANO-CADEIRAS.jpg)
+
 
 Na disciplina de Plástica II, ministrada junto ao alunos do primeiro ano de Design da UEM, pelos professores Vinicius Martins e Aida Franco, um dos trabalhos práticos realizados no mês de novembro foi em torno da releitura formal de um objeto que servisse como assento.
+
+<!-- more -->
+
+![FOTOS PRIMEIRO ANO CADEIRAS](/img/antigo/2015/11/FOTOS-PRIMEIRO-ANO-CADEIRAS.jpg)
 
 Os acadêmicos  buscaram referências em modelos variados e a partir dos mesmos desenvolveram os objetos em torno de conceitos e materiais diversos. Primeiramente fizeram os protótipos e na etapa seguinte os produtos em escala.
 

@@ -6,9 +6,13 @@ categories:
 banner: "/img/antigo/2015/09/foto-site.jpg"
 ---
 
-![Na reta final do Curso, os alunos do quarto ano de Design esclareceram as dúvidas sobre o Estágio Obrigatório (Foto: Aida Franco)](/img/antigo/2015/09/foto-site.jpg) Na reta final do Curso, os alunos do quarto ano de Design esclareceram as dúvidas sobre o Estágio Obrigatório (Foto: Aida Franco)
+
 
 No último dia 02 de setembro acadêmicos do quarto ano de Design tiveram a oportunidade de esclarecer  dúvidas em relação ao estágio. Quem abordou o assunto com maestria foi Laura Berner Rocha, prospectora, responsável pelo Atendimento à Empresas e Instituições de Ensino do Centro de Integração Empresa - Escola do Paraná (CIEE/PR).
+
+<!-- more -->
+
+![Na reta final do Curso, os alunos do quarto ano de Design esclareceram as dúvidas sobre o Estágio Obrigatório (Foto: Aida Franco)](/img/antigo/2015/09/foto-site.jpg) Na reta final do Curso, os alunos do quarto ano de Design esclareceram as dúvidas sobre o Estágio Obrigatório (Foto: Aida Franco)
 
 O estágio não obrigatório, mas remunerado, tem início no segundo ano do Curso. E no quarto ano os alunos necessitam realizar o Estágio Obrigatório, perfazendo um total de 221 horas.  A jornada semanal não tem um limite mínimo, porém o limite máximo é de 6 horas diárias, perfazendo um total de 30 horas semanais, caso o acadêmico dedique-se exclusivamente ao estágio.
 

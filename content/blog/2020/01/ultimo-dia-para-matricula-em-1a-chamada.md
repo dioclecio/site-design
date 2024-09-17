@@ -6,7 +6,7 @@ categories:
 ---
 
 A matrícula online deve ser realizada no site do DAA.
-
+<!--more-->
 Os documentos necessários são:
 
 1. Cédula de Identidade;  

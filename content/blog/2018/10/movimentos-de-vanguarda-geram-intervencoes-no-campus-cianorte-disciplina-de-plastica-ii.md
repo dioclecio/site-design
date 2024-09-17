@@ -6,7 +6,13 @@ categories:
   - "noticias"
 ---
 
-[![](/img/antigo/2018/10/Design-sem-nome-632x356.jpg)](/img/antigo/2018/10/Design-sem-nome.jpg)Inspiradas pelas as vanguardas artísticas, as professoras Maiara Santos e Anelise Dalberto propuseram aos alunos do primeiro ano a elaboração de intervenções com o intuito de transmitir ao observador o repertório desenvolvido ao longo da disciplina de Plástica para a compreensão, criação e exploração da forma.
+
+
+Inspiradas pelas as vanguardas artísticas, as professoras Maiara Santos e Anelise Dalberto propuseram aos alunos do primeiro ano a elaboração de intervenções com o intuito de transmitir ao observador o repertório desenvolvido ao longo da disciplina de Plástica para a compreensão, criação e exploração da forma.
+
+<!-- more -->
+
+[![](/img/antigo/2018/10/Design-sem-nome-632x356.jpg)](/img/antigo/2018/10/Design-sem-nome.jpg)
 
 A partir dos movimentos Art Déco, Construtivismo, Art Nouveau, De Stijl, Cubismo, Futurismo, Surrealismo, Pop Art e Dadaísmo, os alunos tiveram como objetivo a criação de intervenções na qual transmitisse a comunidade uma nova visão e reflexão dos espaços onde as criações estão localizadas. As criações estão em exposição aberta à visitação.
 

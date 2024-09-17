@@ -6,11 +6,14 @@ categories:
 banner: "/img/antigo/2020/02/i-will-be-back-_-texto-rasterizado-copia-1.jpg"
 ---
 
-![](/img/antigo/2020/02/i-will-be-back-_-texto-rasterizado-copia-1.jpg)
 
-[Designed by Freepik](http://www.freepik.com)
+
 
 No dia 17/FEV, foi publicado pela DAA, o Edital 004/2020, que estabelece procedimentos e prazos para os alunos que foram desligados da graduação solicitarem o reingresso para o ano letivo de 2020.
+
+<!--more-->
+
+![](/img/antigo/2020/02/i-will-be-back-_-texto-rasterizado-copia-1.jpg)
 
 A solicitação pode ser realizada presencialmente, na DAA, até às 17h10 do dia 21/FEV, ou por e-mail até às 23h59. Em ambos os casos é obrigatório a comprovação do pagamento da taxa, no valor de R$ 80,00, e o preenchimento do requerimento.
 

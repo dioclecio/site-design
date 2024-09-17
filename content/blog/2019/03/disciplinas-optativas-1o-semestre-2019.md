@@ -5,9 +5,12 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2019/03/463366-PFPEV4-320-1-632x422.jpg)
 
 Explorar os conhecimentos na universidade, com disciplinas oferecidas de forma optativas faz parte da formação do profissional, visando isso o Curso de Design disponibiliza algumas disciplinas com tais características que agregam novos conhecimentos aos alunos.
+
+<!-- more -->
+
+![](/img/antigo/2019/03/463366-PFPEV4-320-1-632x422.jpg)
 
 O limite de vagas por disciplina é de 20 alunos, com exceção de Fotografia com 10, sendo as matrículas destinadas aos alunos matriculados na 2º série em diante.
 

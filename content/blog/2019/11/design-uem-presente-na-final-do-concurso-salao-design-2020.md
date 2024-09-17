@@ -7,6 +7,8 @@ categories:
 
 Criado em 1988 pelo Sindicato das Indústrias de Mobiliário de Bento Gonçalves (Sindmóveis), o Prêmio Salão Design é um concurso de relevância nacional que aborda diversos tipos de mobiliário. Se trata de um projeto que nasceu na Serra Gaúcha para atender às demandas de inovação regional, mas logo ganhou caráter nacional e, depois, internacional, contando com uma participação de concorrentes de alguns países da América Latina.
 
+<!--more-->
+
 Em 30 anos de realização, são mais de 15 mil histórias contadas em 15 mil projetos diferentes inscritos até hoje.
 
 Dentre os participantes da edição de 2020, dois alunos do curso de Design da UEM foram classificados para a segunda (e última) etapa da categoria estudantes. O tema geral do concurso é: "Design de mobiliário conta histórias", segue o link:  [http://www.salaodesign.com.br/#/inicio](http://www.salaodesign.com.br/?fbclid=IwAR0AdLMf8RO-uugdJh-pw3glq8fmgmp0wp887Lcc62YR1rx5nYwzBRE-B_8#/inicio)

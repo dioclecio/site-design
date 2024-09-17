@@ -6,9 +6,11 @@ categories:
   - "noticias"
 ---
 
-###### Entre os vários alunos que já passaram ou que ainda estão no nosso curso, podemos encontrar diferentes talentos e iniciativas.
+Entre os vários alunos que já passaram ou que ainda estão no nosso curso, podemos encontrar diferentes talentos e iniciativas.
 
-###### Hoje vamos ver o trabalho da Anna Flavia, de decorar e redecorar a parede de uma das escadarias do nosso campus.
+<!--more-->
+
+Hoje vamos ver o trabalho da Anna Flavia, de decorar e redecorar a parede de uma das escadarias do nosso campus.
 
 > Oii, meu nome é Anna Flavia e eu estou cursando o último ano de Design (não sei como).
 

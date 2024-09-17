@@ -7,6 +7,7 @@ categories:
 ---
 
 As inscrições para compor a equipe do projeto como voluntário foram prorrogadas.
+<!--more-->
 
 Seguem, abaixo, as informações disponibilizadas pela professora Maiara de Oliveira Santos, coordenadora adjunta do projeto de extensão:
 

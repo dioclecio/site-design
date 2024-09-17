@@ -6,9 +6,13 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2019/01/IMG-5767-1.jpg)
+
 
 O Design é uma área do conhecimento que tem como um de seus tripés, o impacto social que suas criações podem causar nas pessoas e sociedade, assim como o fim de ano, que é uma época na qual as pessoas buscam realizar ações que possam contribuir com a alegria do próximo. Pensando nisso, os alunos do 2º do Curso de Design da UEM, desenvolveram livros infantis na disciplina de Noções de Programação Visual, que foram distribuídos na Escola Municipal Ovídio Luiz Franzoni, em Cianorte.
+<!-- more -->
+
+![](/img/antigo/2019/01/IMG-5767-1.jpg)
+
 
 Os livros tiveram ainda a complementação de kits com lápis de cor, canetinhas, ou mesmo brinquedos, além de doces para que as crianças pudessem se divertir e saborear os doces e as histórias.
 

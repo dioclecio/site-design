@@ -6,9 +6,13 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2018/03/candy-jelly-beans-1527168-632x474.jpg)
 
 Você já pode se matricular para as disciplinas optativas que serão ofertadas em 2018. Basta acessar o formulário no link abaixo e informar seu nome completo, RA e marcar as disciplinas que deseja cursar.
+
+<!-- more -->
+
+![](/img/antigo/2018/03/candy-jelly-beans-1527168-632x474.jpg)
+
 
 No formulário tem uma descrição de cada disciplina, assim como o semestre no qual a mesma acontecerá.
 

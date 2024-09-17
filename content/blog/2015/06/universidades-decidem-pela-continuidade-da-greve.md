@@ -5,11 +5,16 @@ categories:
   - "noticias"
 ---
 
+
+
+O Sinteemar (Sindicato dos Trabalhadores em Estabelecimentos de Ensino de Maringá e  Sesduem (Seção Sindical dos Docentes da UEM), no início dessa semana, reuniram seus afiliados em assembleias e decidiram, por unanimidade, pela continuidade da greve.  Nessa terça-feira (09), a APP - (Sindicato dos Trabalhadores em Educação Pública do Paraná) encerrou a greve na rede estadual, acatando a proposta do Governo no que refere-se a data-base dos servidores.   O reajuste inicial será de 3,45% e será pago em outubro. O acordo ainda prevê um plano de reajuste até 2018.
+
+
+<!-- more -->
+
 ![sintemar](/img/antigo/2015/06/sintemar.jpg)
 
 ![sesduem](/img/antigo/2015/06/sesduem.jpg)
-
-O Sinteemar (Sindicato dos Trabalhadores em Estabelecimentos de Ensino de Maringá e  Sesduem (Seção Sindical dos Docentes da UEM), no início dessa semana, reuniram seus afiliados em assembleias e decidiram, por unanimidade, pela continuidade da greve.  Nessa terça-feira (09), a APP - (Sindicato dos Trabalhadores em Educação Pública do Paraná) encerrou a greve na rede estadual, acatando a proposta do Governo no que refere-se a data-base dos servidores.   O reajuste inicial será de 3,45% e será pago em outubro. O acordo ainda prevê um plano de reajuste até 2018.
 
 **Confira a nota do comando de greve dos professores das universidades estaduais:**
 

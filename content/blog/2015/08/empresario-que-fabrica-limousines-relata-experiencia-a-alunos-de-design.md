@@ -8,6 +8,8 @@ banner: "/img/antigo/2015/08/carro.jpg"
 
 O empresário cianortense Higo Lima foi o convidado na disciplina de Tópicos Especiais dos formandos de Design na última quarta (13). Higo é o proprietário da Limousines Maranata, uma das seis empresas brasileiras atuantes no ramo.
 
+<!-- more -->
+
 No bate-papo com os alunos, o jovem empresário relembrou a infância e sua paixão pelos carros. “Eu ganhava carrinhos do meu pai e em algumas horas eu já tinha desmontado tudo”.  A curiosidade, marca registrada em sua vida, transformou-se em coragem para enfrentar  os inúmeros desafios que surgiriam em seu caminho.
 
 Higo relembrou os desafios pessoais e profissionais e a forma como a maioria a seu redor desdenhava do seu sonho: construir os próprios carros!

@@ -5,9 +5,13 @@ categories:
   - "noticias"
 ---
 
-[![colbie](/img/antigo/2015/06/colbie.jpg)](/img/antigo/2015/06/colbie.jpg)
+
 
 Os alunos Vitor Okuma Lonchiati, Mariane Lumi Mukai e Naomi Fukuyama Parra, do terceiro ano do curso de Design do Campus Regional de Cianorte, foram os vencedores na categoria Estudantes, do Prêmio Bim.bon 2015.
+
+<!-- more -->
+
+[![colbie](/img/antigo/2015/06/colbie.jpg)](/img/antigo/2015/06/colbie.jpg)
 
 Um jurado definiu a escolha dos vencedores: "O projeto de revestimento Colbie foi um dos projetos mais bem apresentados neste Prêmio. Levou em consideração todos os critérios de avaliação, apresentando soluções de montagem, desmontagem, embalagem e análise do ciclo de vida do objeto. Atendeu a todos os requisitos e por isso conquistou o 1º lugar na categoria revestimento. A flexibilidade e personalização do projeto foram pontos importantes na avaliação."
 

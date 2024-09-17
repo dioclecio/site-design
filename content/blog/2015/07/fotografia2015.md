@@ -7,6 +7,8 @@ categories:
 
 O fotógrafo Anderson Theodoro coordena o 3o Concurso de Fotografias - Primavera 2015, sob o tema **"Para mim, primavera é..."**
 
+<!-- more -->
+
 As inscrições estarão abertas entre os dias 1 a 31 de agosto de 2015.
 
 O concurso contempla 4 categorias: Celular, Escola, Amador e Câmera Reflex, e cada participante pode participar com no máximo 3 fotografias.

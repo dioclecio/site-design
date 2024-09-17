@@ -6,7 +6,11 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2015/10/DSC_9365.jpg) Refeições estarão disponíveis no almoço e jantar.
+Refeições estarão disponíveis no almoço e jantar.
+
+<!-- more -->
+
+![](/img/antigo/2015/10/DSC_9365.jpg) 
 
 A comunidade acadêmica de Cianorte terá disponível à partir do próximo dia 03 o serviço de entrega de refeições.  A diretora do Campus, Marcia Maioli, divulgou nas redes sociais os procedimentos necessários. Segundo a mesma, é necessário comprar passes (ticket) para retirar a marmita e as reservas devem ser feitas na véspera. As marmitas para o almoço serão servidas entre 12 e 12h45 e as do jantar  entre 18h30 e 19h15. A venda dos passes será feita no DDM (Departamento de Design e Moda), com o Anderson ou a Priscila, somente às segundas-feiras, nos seguintes horários: Manhã: 7h30 - 9h30; Tarde: 13h30 - 15h30; Noite: 19h30 – 21h30
 

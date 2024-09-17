@@ -5,9 +5,13 @@ categories:
   - "noticias"
 ---
 
-![preceptoria](/img/antigo/2015/08/preceptoria.jpg)
+
 
 A preceptoria é uma espécie de conhecimento compartilhado. Ou seja, o aluno que já está um degrau acima, porque cursou determinada matéria, auxilia aqueles que estão cursando-a, sob a orientação do professor responsável pela disciplina.
+
+<!-- more -->
+
+![preceptoria](/img/antigo/2015/08/preceptoria.jpg)
 
 O edital será aberto a partir desta segunda-feira (10/08), com as inscrições se iniciando provavelmente no dia seguinte. A bolsa é de 400 reais mensais.  Preceptorias de estatística foram canceladas, em virtude da baixa participação dos acadêmicos.
 

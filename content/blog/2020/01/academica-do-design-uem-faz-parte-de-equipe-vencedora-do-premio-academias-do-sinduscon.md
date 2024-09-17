@@ -7,6 +7,8 @@ categories:
 
 Equipe de pesquisadores da UEM leva o primeiro lugar no Prêmio Academias do Sinduscon. A recompensa foi de R$ 2 mil.
 
+<!--more-->
+
 A pesquisa premiada, de autoria de Andressa Eduarda Sorian, graduanda em Design, juntamente com Sandro Rogerio Lautenschlager, professor do Programa de Pós-Graduação em Engenharia Urbana, Evandro Junior Rodrigues, professor do Departamento de Engenharia Civil, Bruno Cézar do Nascimento, mestrando em Engenharia Urbana, é intitulada de Internet das coisas (IoT) na automação e controle da construção civil: desenvolvimento de um _smart_ sensor para redução dos riscos durante a construção e a operação das edificações”.
 
 A cerimônia ocorreu no dia 22 de novembro, em Maringá, durante o Congresso Nacional de Engenharia, Construção, Tecnologia e Inovação.

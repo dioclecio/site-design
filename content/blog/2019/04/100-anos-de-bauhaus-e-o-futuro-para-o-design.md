@@ -6,9 +6,11 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2019/04/20190408_Escola-de-bauhaus.jpg)
-
 Sendo um dos ícones mais importantes para o Design, a Bauhaus, assim como os profissionais que passaram pela instituição e passou por três lugares na Alemanha, e hoje é uma Universidade em funcionamento na cidade de Weimar e conta com cerca de 4080 alunos de diferentes nacionalidades.
+
+<!--more-->
+
+![](/img/antigo/2019/04/20190408_Escola-de-bauhaus.jpg)
 
 Inicialmente com foco na criação de produtos de simples fabricação e manuseio, hoje concentra as pesquisas e desenvolvimentos no sentido de entender como as novas tecnologias exercem significado para a sociedade. Dessa forma, com discussões mais voltadas ao entendimento das relações de uso e produção.
 

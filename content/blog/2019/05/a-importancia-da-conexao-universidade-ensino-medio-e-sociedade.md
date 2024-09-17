@@ -6,9 +6,13 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2019/05/documento-Cópia.jpg)
+
 
 O estudo especializado adquirido em um curso de ensino superior é um diferencial, tanto para o crescimento profissional, como pessoal. O profissional com tal formação têm a possibilidade de ser visto de forma diferenciada por diversas empresas, além disso, os cursos superiores contribuem para que as pessoas se lancem no mercado como empreendedores autônomos de qualidade por causa das vivências adquiridas. Dessa maneira a taxa de jovens estudantes que se encaminham do ensino médio para uma universidade vem crescendo levando a sociedade a refletir e analisar acerca da importância dada ao estudo básico e superior no país.
+
+<!--more-->
+
+![](/img/antigo/2019/05/documento-Cópia-1020x436.jpg)
 
 Em uma época de transformações e questionamentos, incentivar jovens de ensino médio a irem para ás universidades é essencial, principalmente pois o caminho a ser trilhado é amplo e cheio de opções, que com o ensino superior, pode gerar mais possibilidades.
 

@@ -5,7 +5,9 @@ categories:
   - "noticias"
 ---
 
-Instruções do coordenador de estágio sobre os procedimentos para estágios não obrigatórios e obrigatórios que estejam funcionando em sistema de home office (remoto):
+Instruções do coordenador de estágio sobre os procedimentos para estágios não obrigatórios e obrigatórios que estejam funcionando em sistema de home office (remoto).
+
+<!--more-->
 
 > **Não obrigatório:** Estudantes precisam atualizar o plano de estágio com a descrição das atividades e a forma de execução, assim como horários com as assinaturas dos responsáveis;
 > 

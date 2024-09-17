@@ -6,12 +6,16 @@ categories:
   - "noticias"
 ---
 
-![Caixas sob a ótica da Sustentabilidade](/img/antigo/2016/01/CAIXAS21.jpg)   
-![Caixas sob a ótica da Sustentabilidade](/img/antigo/2016/01/CAIXAS6.jpg)
 
  
 
 A necessidade de produtos que ofereçam um menor impacto ao meio ambiente tem se mostrado maior a cada dia. A disciplina de Design & Sustentabilidade do Curso de Design da UEM tem por objetivo munir os futuros designers de recursos para que possam desenvolver tais produtos.
+
+<!-- more -->
+
+![Caixas sob a ótica da Sustentabilidade](/img/antigo/2016/01/CAIXAS21.jpg)   
+![Caixas sob a ótica da Sustentabilidade](/img/antigo/2016/01/CAIXAS6.jpg)
+
 
 "Na abordagem em questão, os alunos da 2ª Série fizeram, em um primeiro momento, uma análise do ciclo de vida de uma prancha alisadora de cabelos, verificando todos os detalhes referentes à sua produção, transporte, uso e descarte", explica o professor Fabiano Burgo.
 

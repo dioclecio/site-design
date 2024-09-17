@@ -6,10 +6,13 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2018/05/224-632x479.jpg)
+
 
 Ajude-nos a conhecer quem você é, de onde veio e para onde quer ir!
 
+<!-- more -->
+
+![](/img/antigo/2018/05/224-632x479.jpg)
 Responda ao questionário no link abaixo e contribua para fazermos o Curso de Design da UEM ser cada vez melhor, focado em características necessárias para que sejamos profissionais do Design cada vez melhores. Assim, atendendo as demandas do mercado com agilidade e planejamento.
 
 Você não precisa se identificar e os resultados serão utilizados exclusivamente para promover melhorias no Curso visando uma formação cada vez mais atual e completa para você!

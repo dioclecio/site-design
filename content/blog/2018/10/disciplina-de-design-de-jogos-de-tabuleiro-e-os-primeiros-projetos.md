@@ -6,9 +6,12 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2018/10/IMG_5004-632x257.jpg)
+
 
 A Disciplina de Design de Jogos de Tabuleiro tem como objetivo a conceituação e criação de jogos de tabuleiro, no sentido de exercitar a criatividade dos alunos para um mercado que movimenta milhões ao redor do mundo. Os jogos de tabuleiro, fazem parte da vida humana e contribui para o desenvolvimento de diversas habilidades como raciocínio lógico, trabalho em equipe, espírito de competição e traz situações corriqueiras da vida em forma de jogo, dando a possibilidade de pessoas vivenciarem experiências e adquirirem conhecimento com enredos e mecânicas diversas que existem nos jogos. Além de contribuir de forma evidente com a socialização entre pessoas, mantendo o convívio entre gerações e estimulando a amizade.
+<!-- more -->
+
+![](/img/antigo/2018/10/IMG_5004-632x257.jpg)
 
 Nessa etapa, os alunos da disciplina foram divididos em 4 grupos que puderam desenvolver seus jogos de forma livre e o resultado dessa primeira etapa da disciplina pode ser visto logo abaixo:
 

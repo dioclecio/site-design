@@ -10,6 +10,8 @@ tags:
 
 No dia 20 de janeiro, alunos do primeiro ano do curso de Design estiveram apresentando seus projetos de luminária como parte das atividades desenvolvidas na disciplina de Plástica I. Após as apresentações, os alunos abriram uma exposição que ficará disponível até o dia 27 de janeiro.
 
+<!--more-->
+
 ![Fotos das luminárias](/img/antigo/2020/01/2019-Luminárias-Plastica-0100003-900x675.jpg)
 
 Turma do 1 Ano de 2019

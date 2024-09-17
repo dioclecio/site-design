@@ -6,4 +6,6 @@ categories:
   - "noticias"
 ---
 
+Saiba sobre o nosso movimento de greve.
+<!-- more -->
 ![greve](/img/antigo/2015/04/greve.jpg)

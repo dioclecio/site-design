@@ -6,10 +6,14 @@ categories:
   - "noticias"
 ---
 
-![Araçari "seduzido" por seu reflexo no espelho (Foto: Fernando Casado)](/img/antigo/2015/09/Foto-Araçari-Fernando.jpg) 
-Araçari "seduzido" por seu reflexo no espelho (Foto: Fernando Casado)
+
 
 Desde a última sexta (05) um casal de araçaris chama a atenção no campus da UEM Cianorte. "Seduzidos" pelos reflexos nos espelhos, os pássaros delimitaram o território durante todo o final de semana, marcando presença mesmo durante a segunda chuvosa.
+
+<!-- more -->
+
+![Araçari "seduzido" por seu reflexo no espelho (Foto: Fernando Casado)](/img/antigo/2015/09/Foto-Araçari-Fernando.jpg) 
+Araçari "seduzido" por seu reflexo no espelho (Foto: Fernando Casado)
 
 De acordo com o site denominado "A última Arca de Noé",  tanto os  tucanos como os araçaris  são facilmente reconhecidos pelo público em geral por uma característica singular e inconfundível: o enorme bico, que apesar de forte é muito sensível.
 

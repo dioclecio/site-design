@@ -6,9 +6,13 @@ categories:
   - "noticias"
 ---
 
-![Troféus esperando seus donos](/img/antigo/2015/12/12351087_1040750855946503_1902205084_n1.jpg) Troféus esperando seus donos.
+
 
 A fotografia ganhou destaque nesse último mês de dezembro, em Cianorte. Os troféus destinados aos vencedores do Concurso "Para mim, primavera é..." já estão esperando seus donos.  O evento foi noticiado [aqui](/blog/2015/07/fotografia2015/ "Aqui") e teve ampla participação de fotógrafos de categorias diversas do Brasil e exterior.  A solenidade de entrega das premiações será na sede da Secretaria de Meio Ambiente, no Parque Mandhuy , nessa sexta (11), às 10 horas. E, para fechar o evento, a exposição itinerante de todas as fotos inscritas está sendo realizada no corredor do Bloco Y02, da UEM - Cianorte.
+
+<!-- more -->
+
+![Troféus esperando seus donos](/img/antigo/2015/12/12351087_1040750855946503_1902205084_n1.jpg) Troféus esperando seus donos.
 
 ![Mostra acontece no Campus da UEM Cianorte, com todas as fotos inscritas](/img/antigo/2015/12/fotografias.jpg) Mostra acontece no Campus da UEM Cianorte, com todas as fotos inscritas.
 

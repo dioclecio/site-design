@@ -5,6 +5,10 @@ categories:
   - "noticias"
 ---
 
+
+Veja os horários da preceptoria do curso.
+
+<!-- more -->
 ![Estudante de sorriso atrativo novo que mostra o polegar acima fora no terreno na universidade.](https://image.freepik.com/fotos-gratis/estudante-de-sorriso-atrativo-novo-que-mostra-o-polegar-acima-fora-no-terreno-na-universidade_8353-6394.jpg)
 
 PRECEPTORIA DE DESIGN

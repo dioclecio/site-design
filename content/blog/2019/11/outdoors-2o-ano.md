@@ -7,5 +7,7 @@ categories:
 
 Os alunos do segundo ano do curso de Design, orientados pelo professor Vagner Basqueroto Martins, desenvolveram, como trabalho final da disciplina de Teoria da Comunicação, outdoors em escala com diversos temas. As propostas variam entre temas sociais, serviços e entretenimento.
 
+<!--more-->
+
 Deleite-se com as fotos dos trabalhos:
 

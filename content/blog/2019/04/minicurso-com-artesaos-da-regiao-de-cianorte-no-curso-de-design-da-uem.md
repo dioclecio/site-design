@@ -6,9 +6,13 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2019/04/a-IMG_7816-1.jpg)
+
 
 O Projeto de Extensão “Aplicação de técnicas de desenvolvimento de produtos utilizando reaproveitamento de materiais descartados”, financiado pelo Fundo Paraná,  iniciou no dia 02/04/2019 os minicursos junto a comunidade de Cianorte e região.
+
+<!--more-->
+![](/img/antigo/2019/04/a-IMG_7816-1.jpg)
+
 
 Nesta primeira fase se inscreveram 44 artesãos das cidades de Cianorte e São Tomé que tiveram uma palestra sobre a importância da reciclagem e do reaproveitamento de materiais com potencial de ser reciclado e reaproveitado. Na sequência tiveram um minicurso sobre desenvolvimento de produtos utilizando banners de evento, ambos ministrados pela professora Maiara de Oliveira Santos.
 

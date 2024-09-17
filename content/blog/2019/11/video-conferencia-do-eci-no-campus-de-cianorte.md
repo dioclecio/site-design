@@ -11,9 +11,13 @@ tags:
   - "visitas"
 ---
 
-![](/img/antigo/2019/11/IMG_20191111_085829.jpg)
+
 
 Apresentação do ECI aos alunos do 2o ano do curso de Design no Campus Regional de Cianorte.
+
+<!--more-->
+
+![](/img/antigo/2019/11/IMG_20191111_085829.jpg)
 
 O professor Cássio David da Silva, responsável pelos Programas Internacionais do Escritório de Cooperação Internacional (ECI) da UEM, esteve reunido com alunos do 2o ano do Curso de Design na manhã de 11 de novembro. Nessa reunião, o professor apresentou o ECI e seu papel na universidade, discutiu sobre as oportunidades e procedimentos para a realização de mobilidade que os acadêmicos podem aproveitar em outros países. No final do encontro, os alunos puderam tirar dúvidas sobre como o ECI poderia intermediar e auxiliar no planejamento de uma mobilidade internacional e quais as fontes para encontrar essas oportunidades. 
 

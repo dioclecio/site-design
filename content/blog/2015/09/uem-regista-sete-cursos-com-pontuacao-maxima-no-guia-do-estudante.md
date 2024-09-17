@@ -5,11 +5,16 @@ categories:
   - "noticias"
 ---
 
+
+Sete cursos de graduação da Universidade Estadual de Maringá (UEM) obtiveram a pontuação máxima no Guia do Estudante, publicação da Editora Abril. Com esse número a UEM supera a edição de 2014, quando dois cursos receberam cinco estrelas. Os sete cursos que receberam três estrelas são: _Design,_ _Moda_; Engenharia Têxtil; Educação Física (Ivaiporã); Serviço Social; Engenharia Mecânica e Medicina Veterinária.
+
+<!-- more -->
+
+
+
 ![](/img/antigo/2015/09/base_de_dados_site.jpg)
 
 (Fonte: Assessoria de Comunicação da UEM)
-
-Sete cursos de graduação da Universidade Estadual de Maringá (UEM) obtiveram a pontuação máxima no Guia do Estudante, publicação da Editora Abril. Com esse número a UEM supera a edição de 2014, quando dois cursos receberam cinco estrelas. Os sete cursos que receberam três estrelas são: _Design,_ _Moda_; Engenharia Têxtil; Educação Física (Ivaiporã); Serviço Social; Engenharia Mecânica e Medicina Veterinária.
 
 No total, o Guia classificou 40 cursos da UEM, dois a mais que no ano passado. Além das sete graduações com cinco estrelas, 26 receberam quatro estrelas e sete ficaram com três estrelas.
 

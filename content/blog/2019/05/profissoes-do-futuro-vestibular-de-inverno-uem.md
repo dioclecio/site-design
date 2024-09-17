@@ -5,9 +5,14 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2019/04/15240-Convertido-632x225.jpg)
+
 
 O Design é um das profissões do futuro, segundo diversas reportagens que apontam que a demanda por profissionais criativos vem crescendo dia a dia [(SEBRAE)](https://m.sebrae.com.br/sites/PortalSebrae/segmentos/economia_criativa/como-o-sebrae-atua-no-segmento-de-economia-criativa,47e0523726a3c510VgnVCM1000004c00210aRCRD). Tudo isso por conta do crescimento da economia criativa, uma forma de realizar negócios que já movimenta em torno de R$155 bilhões em negócios no Brasil.
+
+<!--more-->
+
+![](/img/antigo/2019/04/15240-Convertido-632x225.jpg)
+
 
 Então, se você está na fase de prestar o vestibular, ou conhece alguém que está pensando nisso, já deve ter imaginado quais são as profissões que farão sentido e que terão mercado. Esse é um pensamento também frequente daqueles que são responsáveis por jovens nessa fase de escolha.
 

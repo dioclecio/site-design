@@ -8,6 +8,8 @@ banner: "/img/antigo/2020/06/DESAFIO_DESIGN_COVID-19_RESULTADO_2_page-0005.jpg"
 
 No último final de semana aconteceu o primeiro desafio hackaton idealizado pelos professores e parceiros do curso de Design da UEM. Foi um evento totalmente virtual, em que a premissa do mesmo foi instigar os alunos, no momento da pandemia, a criar soluções de design e produtos relevantes para a adaptação das pessoas no mundo pós COVID-19 em apenas 44 horas.
 
+<!--more-->
+
 A revelação, nesta segunda (1º), concedeu o primeiro lugar para a equipe Quarenteners, composta pelos alunos Marcos Vinícius Vieira da Silva (4º ano), Mariana Carolina da Silva (3º ano), Eloá Cristina Romeiro e Kamile Arika Costa Yoshimura, ambas do 1º ano, com seu produto **D-Conf.**
 
 ![](/img/antigo/2020/06/DESAFIO_DESIGN_COVID-19_RESULTADO_2_page-0005.jpg)

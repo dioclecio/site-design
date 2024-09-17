@@ -6,6 +6,10 @@ categories:
   - "noticias"
 ---
 
+Conheça alguns locais de interesse para o estudante de design em Cianorte.
+
+<!-- more -->
+
 ![](/img/antigo/2019/02/conceito-de-produtividade-moderna-com-design-plano_23-2147973429.jpg)
 
 A mudança para uma novo local não é fácil, pensando nos futuros graduandos, selecionamos os locais essenciais para os universitários, como papelarias, restaurantes, farmácias, imobiliárias e afins, para facilitar e auxiliar durante a graduação no campus de cianorte.

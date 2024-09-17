@@ -5,9 +5,12 @@ categories:
   - "noticias"
 ---
 
+O atestado médico ou declarações que se enquadram na Resolução Nº064/01-CEP Art.22., servem para que o discente justifique uma eventual falta na ocasião de uma avaliação ou apresentação de trabalho e deve ser protocolada na secretaria do curso.
+
+<!-- more -->
+
 [![](/img/antigo/2018/12/maos-e-cardiologia_23-2147661828.jpg)](/img/antigo/2018/12/maos-e-cardiologia_23-2147661828.jpg)
 
-O atestado médico ou declarações que se enquadram na Resolução Nº064/01-CEP Art.22., servem para que o discente justifique uma eventual falta na ocasião de uma avaliação ou apresentação de trabalho e deve ser protocolada na secretaria do curso.
 
 Art.22. Deverá ser concedida nova oportunidade desde que comprovado ao docente responsável pela disciplina um dos seguintes motivos:
 

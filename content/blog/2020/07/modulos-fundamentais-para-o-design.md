@@ -6,9 +6,11 @@ categories:
 banner: "/img/antigo/2021/09/kai-pilger-XkMCOmEO1qM-unsplash.jpg"
 ---
 
-## O curso de Design da UEM vai ofertar cursos de extensão que podem ter equivalência total ou parcial com disciplinas do curso.
+O curso de Design da UEM vai ofertar cursos de extensão que podem ter equivalência total ou parcial com disciplinas do curso.
 
 **Confira os módulos e os links para inscrição:**
+
+<!--more-->
 
 **Módulo I** - 34 horas  
 **Noções de Ética e Propriedade Intelectual**  

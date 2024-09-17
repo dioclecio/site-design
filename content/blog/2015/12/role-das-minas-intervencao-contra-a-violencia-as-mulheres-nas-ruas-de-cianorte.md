@@ -5,11 +5,16 @@ banner: "/img/antigo/2015/12/Manifesto-13.jpg"
 categories: 
   - "noticias"
 ---
+De uma hora para a outra a violência que as mulheres sofrem nos mais diversos espaços ganhou as ruas de Cianorte. Cartazes em preto e branco e outros coloridos mostram o lado sombrio vivenciado por vítimas das mais variadas idades e classes sociais. O "rolê das minas", organizado através de um evento no Facebook saltou para o mundo off-line . Universitárias da UEM, instituições particulares e profissionais liberais realizaram na última sexta (28) a primeira, daquela que promete ser uma série, intervenção na Cidade.
+
+
+<!-- more -->
+
+
 
 [![Manifesto (13)](/img/antigo/2015/12/Manifesto-13.jpg) 
 [![Manifesto (3)](/img/antigo/2015/12/Manifesto-3.jpg)
 
-De uma hora para a outra a violência que as mulheres sofrem nos mais diversos espaços ganhou as ruas de Cianorte. Cartazes em preto e branco e outros coloridos mostram o lado sombrio vivenciado por vítimas das mais variadas idades e classes sociais. O "rolê das minas", organizado através de um evento no Facebook saltou para o mundo off-line . Universitárias da UEM, instituições particulares e profissionais liberais realizaram na última sexta (28) a primeira, daquela que promete ser uma série, intervenção na Cidade.
 
 **Colativa: fonte de inspiração**
 

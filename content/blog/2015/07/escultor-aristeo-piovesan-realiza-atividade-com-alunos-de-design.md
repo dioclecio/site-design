@@ -6,9 +6,13 @@ categories:
 banner: "/img/antigo/2015/07/5.jpg"
 ---
 
-![5](/img/antigo/2015/07/5.jpg)
+
 
 Os alunos do quarto ano de Design tiveram uma aula, na disciplina de Tópicos Especiais,  com um convidado especial, na primeira semana após a greve: o escultor cianortense Aristeo Piovesan.
+
+<!-- more -->
+
+![5](/img/antigo/2015/07/5.jpg)
 
 O artista fez um tour pelas esculturas que compõem a Via Sacra, expostas no entorno do Santuário Eucarístico Diocesano Nossa Senhora De Fátima, de Cianorte, enquanto narrava a respeito do processo de criação das peças. 
 

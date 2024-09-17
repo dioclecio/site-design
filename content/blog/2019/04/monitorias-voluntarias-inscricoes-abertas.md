@@ -6,9 +6,14 @@ categories:
   - "noticias"
 ---
 
-![Um, visÃ£o aÃ©rea, de, macho fÃªmea, estudante, lendo livro](https://image.freepik.com/fotos-gratis/um-visao-aerea-de-macho-femea-estudante-lendo-livro_23-2148093591.jpg)
+
 
 Entre os dias 15 a 18/04 estarão abertas as inscrições para a monitoria voluntária, com o intuito de promover uma iniciação à docência, contribuindo para a formação e o ensino, estimulando a pesquisa e o desenvolvimento de metodologias de ensino, contribuindo para a melhoria da qualidade do ensino de graduação e para a diminuição da evasão e da reprovação por insuficiência de conteúdos, ampliando a interação da pós-graduação com a graduação, por intermédio do envolvimento discente.
+
+<!--more-->
+
+![Um, visÃ£o aÃ©rea, de, macho fÃªmea, estudante, lendo livro](https://image.freepik.com/fotos-gratis/
+um-visao-aerea-de-macho-femea-estudante-lendo-livro_23-2148093591.jpg)
 
 Podem candidatar-se à monitoria estudantes que atendam aos seguintes requisitos:
 

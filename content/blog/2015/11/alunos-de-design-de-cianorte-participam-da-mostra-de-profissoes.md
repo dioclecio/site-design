@@ -6,9 +6,13 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2015/11/mostra.jpg)
+
 
 Entre os dias 05 a 06 de novembro, o curso de Design está presente na 9ª  Mostra de Profissões da UEM,  realizada no Campus Sede da Universidade em Maringá. Neste evento alunos e professores apresentam o papel do profissional de design no desenvolvimento de novos produtos, como o profissional tem atuado nas diversas áreas da indústria brasileira e qual sua responsabilidade em relação a outros profissionais que também participam no desenvolvimento de muitos dos produtos disponíveis no mercado.
+
+<!-- more -->
+
+![](/img/antigo/2015/11/mostra.jpg)
 
 ![](/img/antigo/2015/11/maringa-2.jpg)
 

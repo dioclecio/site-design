@@ -7,6 +7,10 @@ categories:
 
 Seguem orientações do coordenador de estágio do Campus Regional de Cianorte, Prof. Vagner Martins, referente a atual situação de quarentena:
 
+
+<!--more-->
+
+
 > Oriento a todos(as) estudantes que estão realizando estágio não obrigatório, ou obrigatório, que permaneçam em suas residências, e dessa forma, suspendam as atividades de estágio. As quais devem ser retomadas na volta da normalidade em acordo com seus respectivos concedentes.
 > 
 > Para tanto, a Divisão de Estágios - ETG da  UEM, fará todo o possível para celebrar novos contratos, assim como aditamentos dos contratos vigentes, com o intuito de não causar nenhum tipo de prejuízos aos acadêmicos(as) do Curso de Design, assim como demais estudantes da universidade.

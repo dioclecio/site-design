@@ -6,10 +6,14 @@ categories:
   - "noticias"
 ---
 
-![07 de outubro de 2015. Dia do Lagarto Teiú aparecer na UEM, próximo à Oficina de Moda. Literalmente trabalhamos entre cobras e lagartos, kkkkkkk Foto de Anderson Theodoro, com a colaboração de Eliabe Luro de Lima](/img/antigo/2015/10/lagarto.jpg) 
 
 07 de outubro de 2015. Dia do Lagarto Teiú aparecer na UEM, próximo à Oficina de Moda. Literalmente trabalhamos entre cobras e lagartos...  
 Foto de Anderson Theodoro, com a colaboração de Eliabe Luro de Lima.
+
+<!-- more -->
+
+
+![07 de outubro de 2015. Dia do Lagarto Teiú aparecer na UEM, próximo à Oficina de Moda. Literalmente trabalhamos entre cobras e lagartos, kkkkkkk Foto de Anderson Theodoro, com a colaboração de Eliabe Luro de Lima](/img/antigo/2015/10/lagarto.jpg) 
 
 O Campus Regional de Cianorte – CRC, tem uma característica muito especial, pois está ladeado pela segunda maior floresta urbana do Brasil, o Parque Municipal do Cinturão Verde.
 

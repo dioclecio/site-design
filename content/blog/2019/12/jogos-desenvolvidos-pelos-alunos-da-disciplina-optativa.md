@@ -7,6 +7,8 @@ categories:
 
 Recentemente, foi apresentado o primeiro trabalho do semestre da disciplina de Design de Jogos de Tabuleiro. Ao todo foram três grupos, orientados pelo professor Vagner Martins, sendo que cada grupo desenvolveu um jogo.
 
+<!--more-->
+
 Os jogos abrangem dinâmicas e histórias diversas, seguem fotos e informações:
 
 ![](/img/antigo/2019/12/WhatsApp-Image-2019-11-26-at-21.17.03-1.jpeg)

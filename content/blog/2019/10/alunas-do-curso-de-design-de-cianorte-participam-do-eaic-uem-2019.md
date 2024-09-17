@@ -8,6 +8,8 @@ categories:
 
 No dia 10 de outubro, acadêmicas do curso de Design do Campus Regional de Cianorte expuseram seus projetos de pesquisa no 28º Encontro Anual de Iniciação Científica promovido pela Pró-Reitoria de Pesquisa e Pós-Graduação (PPG) da UEM.
 
+<!--more-->
+
 As acadêmicas Andressa Sorian e Polyanna Astrath Costa apresentaram e discutiram os resultados dos trabalhos científicos realizados no período de 2018-2019. A apresentação foi feita na Biblioteca Central (BCE) do Campus Sede da UEM. 
 
 O trabalho "Análise dos Aspectos Simbólicos Presentes na Joalheria Egípcia Decorrentes do Reinado de Akhenaton" foi apresentado pela acadêmica Andressa Sorian. Nesta pesquisa, foram analisados os aspectos simbólicos da joalheria egípcia, relacionadas às mudanças político-religiosas ocorridos no reinado do Faraó Akhenaton, comparando ornamentos usados antes, durante e depois de seu reinado. O trabalho foi orientado pela Profa. Cristina El Kattel.

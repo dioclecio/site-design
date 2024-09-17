@@ -8,6 +8,8 @@ categories:
 
 No dia 11 de outubro, os alunos Nícolas Azevedo e Flávia Sgobero, do curso de Design, apresentaram um resumo expandido sobre o presente site para o 2º Encontro Anual de Extensão Universitária UEM (EAEX).
 
+<!--more-->
+
 Segundo a DEX, o EAEX é um evento de natureza multidisciplinar que congrega todas as áreas de conhecimento, classificadas no âmbito da extensão nacional em: Comunicação; Cultura; Direitos Humanos e Justiça; Educação; Meio Ambiente; Saúde; Tecnologia e Produção; e Trabalho. O evento tem como objetivo apresentar e discutir, de modo integrado, os resultados dos projetos de extensão desenvolvidos no âmbito da Universidade Estadual de Maringá (UEM) em 2019. As atividades do evento incluem palestras convidadas, rodas de conversa, apresentações de trabalho e atividades culturais.
 
 O tema dessa edição, "Ciência e Inovação para uma Sociedade Sustentável", foi desenvolvido em forma de artigo para a comunicação pelos acadêmicos, juntamente com o antigo bolsista do Projeto, o aluno Leonardo Guzzoni, e com a orientação do Prof.º Fabio Luiz Grassi.

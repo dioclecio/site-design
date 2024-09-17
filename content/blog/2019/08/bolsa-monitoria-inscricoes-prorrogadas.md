@@ -6,9 +6,12 @@ categories:
   - "noticias"
 ---
 
-![](/img/antigo/2019/08/2484655-e1566951423476.jpg)
+
 
 As inscrições para Bolsa Monitoria foram estendidas até **30 de Agosto**/2019.
+<!--more-->
+
+![](/img/antigo/2019/08/2484655-e1566951423476.jpg)
 
 Elas são destinadas a alunos do 2º ano ou posterior, regularmente matriculados nos cursos de Design e Moda, que tenham integralizado a disciplina, ou equivalente, objeto da seleção.
 

@@ -6,13 +6,19 @@ categories:
   - "noticias"
 ---
 
-![Primeiro lugar - Amadores (Cianorte - PR)](/img/antigo/2015/11/Amador-1-lugar-e1448320844776.jpg) 
 
-Primeiro lugar - Amadores (Cianorte - PR).
+
 
  
 
 A listagem dos vencedores do Concurso de Fotografias Primavera 2015 é um show de talento e cores! E mostra como a fotografia encanta profissionais e amadores de norte a sul do Brasil e de outros países também. Afinal, foram 210 fotos inscritas de dez estados brasileiros e de países como Portugal, Estados Unidos e Uruguai.
+
+<!-- more -->
+
+
+![Primeiro lugar - Amadores (Cianorte - PR)](/img/antigo/2015/11/Amador-1-lugar-e1448320844776.jpg) 
+
+Primeiro lugar - Amadores (Cianorte - PR).
 
 No próximo dia 11, com horário e local a ser divulgado, ocorre a cerimônia de entrega dos prêmios aos três primeiros classificados de cada categoria, sendo elas Amadores, Celulares, Escolar e Reflex. Cada troféu  é personalizado. Desenvolvido por um designer formado pela UEM, feito de acrílico, conta com a imagem de todas as fotos finalistas e em destaque a fotografia  premiada do respectivo autor. Além disso, faz uma menção às três linhas da universidade, o Ensino, a Pesquisa e Extensão, através de sua logo.
 

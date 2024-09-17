@@ -6,11 +6,13 @@ categories:
   - "noticias"
 ---
 
+As inscrições para monitorias de bolsa remunerada, para os cursos de Design e Moda, estão abertas. De **19/Agosto (segunda-feira)** a **23/Agosto \[PRORROGADO ATÉ\] 30/Agosto (sexta-feira)**, na Secretaria do DDM.
+
+<!--more-->
 ![](/img/antigo/2019/08/54317-editado.jpg)
 
 (/img/antigo/2019/08/54317-editado-e1566259997645.jpg "<a href="http://www.freepik.com">Designed by gstudioimagen / Freepik</a>")
 
-As inscrições para monitorias de bolsa remunerada, para os cursos de Design e Moda, estão abertas. De **19/Agosto (segunda-feira)** a **23/Agosto \[PRORROGADO ATÉ\] 30/Agosto (sexta-feira)**, na Secretaria do DDM.
 
 As bolsas estão disponíveis para:
 
